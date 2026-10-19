@@ -13,7 +13,7 @@
 body{margin:0;background:var(--bg);color:var(--tx);font-family:"IBM Plex Sans Arabic",system-ui,sans-serif;line-height:1.7;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
 main{max-width:980px;margin:0 auto;padding:18px 14px 60px}
 h1{font-size:26px;margin:0 0 12px}
-nav{display:flex;gap:8px;margin-bottom:16px}
+nav{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
 nav button,.act{font:inherit;cursor:pointer;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:8px;padding:2px 14px}
 nav button.on{background:var(--ac);border-color:var(--ac);color:#fff}
 #player{margin-bottom:18px}
@@ -39,11 +39,11 @@ nav button.on{background:var(--ac);border-color:var(--ac);color:#fff}
 <div class="empty" id="end"></div>
 </main>
 <script>
-var MAX=12,tab="new",V=[],S={};
+var MAX=12,tab="latest",V=[],S={};
 try{S=JSON.parse(localStorage.getItem("mag2")||"{}")}catch(e){}
 function save(){try{localStorage.setItem("mag2",JSON.stringify(S))}catch(e){}}
 function st(id){return S[id]||(S[id]={})}
-var T={new:"جديد",saved:"محفوظ",hidden:"مخفي"};
+var T={latest:"الأحدث",new:"غير مشاهد",saved:"محفوظ",hidden:"مخفي"};
 function ago(d){var h=(Date.now()-new Date(d))/36e5;return h<24?"اليوم":h<48?"أمس":Math.floor(h/24)+" يومًا"}
 function play(v){
  st(v.id).seen=1;save();
@@ -59,12 +59,16 @@ function play(v){
  b.appendChild(t);b.appendChild(c);p.appendChild(f);p.appendChild(b);
  window.scrollTo({top:0,behavior:"smooth"});
 }
+function pick(){
+ if(tab=="latest"){var seenCh={};return V.filter(function(v){if(st(v.id).hide||seenCh[v.channel])return false;seenCh[v.channel]=1;return true})}
+ var l=V.filter(function(v){var s=st(v.id);return tab=="hidden"?s.hide:tab=="saved"?(s.save&&!s.hide):(!s.hide&&!s.seen)});
+ return tab=="new"?l.slice(0,MAX):l;
+}
 function draw(){
  var n=document.getElementById("nav");n.innerHTML="";
  Object.keys(T).forEach(function(k){var b=document.createElement("button");b.textContent=T[k];if(k==tab)b.className="on";b.onclick=function(){tab=k;draw()};n.appendChild(b)});
  var g=document.getElementById("grid");g.innerHTML="";
- var list=V.filter(function(v){var s=st(v.id);return tab=="hidden"?s.hide:tab=="saved"?(s.save&&!s.hide):(!s.hide&&!s.seen)});
- if(tab=="new")list=list.slice(0,MAX);
+ var list=pick();
  list.forEach(function(v){
   var d=document.createElement("div");d.className="v";
   var i=document.createElement("img");i.loading="lazy";i.alt="";i.src="https://i.ytimg.com/vi/"+v.id+"/hqdefault.jpg";i.onclick=function(){play(v)};
@@ -76,9 +80,9 @@ function draw(){
   btn(st(v.id).save?"إزالة الحفظ":"احفظ",function(){st(v.id).save=!st(v.id).save;save();draw()});
   btn(st(v.id).hide?"إظهار":"أخفِ",function(){st(v.id).hide=!st(v.id).hide;save();draw()});
   [i,t,m,a].forEach(function(x){d.appendChild(x)});g.appendChild(d)});
- document.getElementById("end").textContent=list.length?(tab=="new"?"خلصتِ. لا يوجد المزيد الآن.":""):"لا شيء هنا.";
+ document.getElementById("end").textContent=!V.length?"لا توجد فيديوهات بعد. شغّلي update-videos من تبويب Actions.":list.length?(tab=="new"?"خلصتِ. لا يوجد المزيد الآن.":""):"لا شيء هنا.";
 }
-fetch("data/videos.json").then(function(r){return r.json()}).then(function(j){V=j;draw()}).catch(function(){document.getElementById("end").textContent="تعذّر تحميل الفيديوهات. شغّلي التحديث من تبويب Actions."});
+fetch("data/videos.json").then(function(r){return r.json()}).then(function(j){V=j;draw()}).catch(function(){document.getElementById("end").textContent="تعذّر تحميل الفيديوهات. شغّلي update-videos من تبويب Actions."});
 </script>
 </body>
 </html>
