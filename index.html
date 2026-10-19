@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html lang="en" dir="ltr">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
-<title>مجلتي</title>
+<title>My Magazine</title>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;600&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#eef1f0;--card:#fff;--tx:#14201d;--mut:#5f6f6a;--ac:#0f5c54;--bd:#d3dbd8}
@@ -32,7 +32,7 @@ nav button.on{background:var(--ac);border-color:var(--ac);color:#fff}
 </head>
 <body>
 <main>
-<h1>مجلتي</h1>
+<h1>My Magazine</h1>
 <nav id="nav"></nav>
 <div id="player"></div>
 <div class="grid" id="grid"></div>
@@ -43,8 +43,8 @@ var tab="latest",V=[],S={};
 try{S=JSON.parse(localStorage.getItem("mag2")||"{}")}catch(e){}
 function save(){try{localStorage.setItem("mag2",JSON.stringify(S))}catch(e){}}
 function st(id){return S[id]||(S[id]={})}
-var T={latest:"الأحدث",shorts:"شورتس",progress:"قيد المشاهدة",saved:"محفوظ",done:"تمت",hidden:"مخفي"};
-function ago(d){var h=(Date.now()-new Date(d))/36e5;return h<24?"اليوم":h<48?"أمس":Math.floor(h/24)+" يومًا"}
+var T={latest:"Latest",shorts:"Shorts",progress:"In progress",saved:"Saved",done:"Done",hidden:"Hidden"};
+function ago(d){var h=(Date.now()-new Date(d))/36e5;return h<24?"Today":h<48?"Yesterday":Math.floor(h/24)+" days ago"}
 function list(k){
  var seenCh={};
  return V.filter(function(v){
@@ -69,8 +69,8 @@ function play(v){
  f.setAttribute("allowfullscreen","");
  f.src="https://www.youtube-nocookie.com/embed/"+v.id+"?rel=0&autoplay=1";
  var b=document.createElement("div");b.className="bar";
- var t=document.createElement("span");t.textContent=v.title;
- var c=document.createElement("button");c.className="act";c.textContent="إغلاق";c.onclick=function(){p.innerHTML="";draw()};
+ var t=document.createElement("span");t.setAttribute("dir","auto");t.textContent=v.title;
+ var c=document.createElement("button");c.className="act";c.textContent="Close";c.onclick=function(){p.innerHTML="";draw()};
  b.appendChild(t);b.appendChild(c);p.appendChild(f);p.appendChild(b);
  window.scrollTo({top:0,behavior:"smooth"});
 }
@@ -83,18 +83,18 @@ function draw(){
   var s=st(v.id);
   var d=document.createElement("div");d.className="v";
   var i=document.createElement("img");i.loading="lazy";i.alt="";i.src="https://i.ytimg.com/vi/"+v.id+"/hqdefault.jpg";i.onclick=function(){play(v)};
-  var t=document.createElement("div");t.className="t";t.textContent=v.title;
-  var m=document.createElement("div");m.className="m";m.textContent=v.channel+" — "+ago(v.date)+(s.done?" — تمت":s.seen?" — قيد المشاهدة":"");
+  var t=document.createElement("div");t.className="t";t.setAttribute("dir","auto");t.textContent=v.title;
+  var m=document.createElement("div");m.className="m";m.setAttribute("dir","auto");m.textContent=v.channel+" — "+ago(v.date)+(s.done?" — Done":s.seen?" — In progress":"");
   var a=document.createElement("div");a.className="a";
   function btn(l,f){var b=document.createElement("button");b.className="act";b.textContent=l;b.onclick=f;a.appendChild(b)}
-  btn("شاهد",function(){play(v)});
-  btn(s.done?"إعادة":"خلاص",function(){s.done=!s.done;save();draw()});
-  btn(s.save?"إزالة الحفظ":"احفظ",function(){s.save=!s.save;save();draw()});
-  btn(s.hide?"إظهار":"أخفِ",function(){s.hide=!s.hide;save();draw()});
+  btn("Watch",function(){play(v)});
+  btn(s.done?"Undo":"Done",function(){s.done=!s.done;save();draw()});
+  btn(s.save?"Unsave":"Save",function(){s.save=!s.save;save();draw()});
+  btn(s.hide?"Unhide":"Hide",function(){s.hide=!s.hide;save();draw()});
   [i,t,m,a].forEach(function(x){d.appendChild(x)});g.appendChild(d)});
- document.getElementById("end").textContent=!V.length?"لا توجد فيديوهات بعد. شغّلي update-videos من تبويب Actions.":L.length?"":"لا شيء هنا.";
+ document.getElementById("end").textContent=!V.length?"No videos yet. Run update-videos from the Actions tab.":L.length?"":"Nothing here.";
 }
-fetch("data/videos.json").then(function(r){return r.json()}).then(function(j){V=j;draw()}).catch(function(){document.getElementById("end").textContent="تعذّر تحميل الفيديوهات. شغّلي update-videos من تبويب Actions."});
+fetch("data/videos.json").then(function(r){return r.json()}).then(function(j){V=j;draw()}).catch(function(){document.getElementById("end").textContent="Could not load videos. Run update-videos from the Actions tab."});
 </script>
 </body>
 </html>
