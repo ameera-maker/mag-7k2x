@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>مجلتي</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#eef1f0;--card:#fff;--tx:#14201d;--mut:#5f6f6a;--ac:#0f5c54;--bd:#d3dbd8}
+@media (prefers-color-scheme:dark){:root{--bg:#101716;--card:#192220;--tx:#e8efed;--mut:#93a39e;--ac:#5fc4b8;--bd:#2b3936}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:"IBM Plex Sans Arabic",system-ui,sans-serif;line-height:1.7;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:980px;margin:0 auto;padding:18px 14px 60px}
+h1{font-size:26px;margin:0 0 12px}
+nav{display:flex;gap:8px;margin-bottom:16px}
+nav button,.act{font:inherit;cursor:pointer;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:8px;padding:2px 14px}
+nav button.on{background:var(--ac);border-color:var(--ac);color:#fff}
+#player{margin-bottom:18px}
+#player iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:8px;background:#000;display:block}
+#player .bar{display:flex;justify-content:space-between;gap:10px;margin-top:6px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+.v{background:var(--card);border:1px solid var(--bd);border-radius:8px;overflow:hidden}
+.v img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;cursor:pointer;background:var(--bd)}
+.v .t{padding:8px 10px 4px;font-weight:600;font-size:15px;line-height:1.5}
+.v .m{padding:0 10px;color:var(--mut);font-size:13px}
+.v .a{padding:6px 10px 10px;display:flex;gap:6px}
+.act{font-size:13px;padding:0 10px}
+.empty{color:var(--mut);padding:30px 0;text-align:center}
+:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
+</style>
+</head>
+<body>
+<main>
+<h1>مجلتي</h1>
+<nav id="nav"></nav>
+<div id="player"></div>
+<div class="grid" id="grid"></div>
+<div class="empty" id="end"></div>
+</main>
+<script>
+var MAX=12,tab="new",V=[],S={};
+try{S=JSON.parse(localStorage.getItem("mag2")||"{}")}catch(e){}
+function save(){try{localStorage.setItem("mag2",JSON.stringify(S))}catch(e){}}
+function st(id){return S[id]||(S[id]={})}
+var T={new:"جديد",saved:"محفوظ",hidden:"مخفي"};
+function ago(d){var h=(Date.now()-new Date(d))/36e5;return h<24?"اليوم":h<48?"أمس":Math.floor(h/24)+" يومًا"}
+function play(v){
+ st(v.id).seen=1;save();
+ var p=document.getElementById("player");p.innerHTML="";
+ var f=document.createElement("iframe");
+ f.setAttribute("sandbox","allow-scripts allow-same-origin allow-presentation");
+ f.setAttribute("allow","encrypted-media; picture-in-picture; fullscreen");
+ f.setAttribute("allowfullscreen","");
+ f.src="https://www.youtube-nocookie.com/embed/"+v.id+"?rel=0&autoplay=1";
+ var b=document.createElement("div");b.className="bar";
+ var t=document.createElement("span");t.textContent=v.title;
+ var c=document.createElement("button");c.className="act";c.textContent="إغلاق";c.onclick=function(){p.innerHTML="";draw()};
+ b.appendChild(t);b.appendChild(c);p.appendChild(f);p.appendChild(b);
+ window.scrollTo({top:0,behavior:"smooth"});
+}
+function draw(){
+ var n=document.getElementById("nav");n.innerHTML="";
+ Object.keys(T).forEach(function(k){var b=document.createElement("button");b.textContent=T[k];if(k==tab)b.className="on";b.onclick=function(){tab=k;draw()};n.appendChild(b)});
+ var g=document.getElementById("grid");g.innerHTML="";
+ var list=V.filter(function(v){var s=st(v.id);return tab=="hidden"?s.hide:tab=="saved"?(s.save&&!s.hide):(!s.hide&&!s.seen)});
+ if(tab=="new")list=list.slice(0,MAX);
+ list.forEach(function(v){
+  var d=document.createElement("div");d.className="v";
+  var i=document.createElement("img");i.loading="lazy";i.alt="";i.src="https://i.ytimg.com/vi/"+v.id+"/hqdefault.jpg";i.onclick=function(){play(v)};
+  var t=document.createElement("div");t.className="t";t.textContent=v.title;
+  var m=document.createElement("div");m.className="m";m.textContent=v.channel+" — "+ago(v.date);
+  var a=document.createElement("div");a.className="a";
+  function btn(l,f){var b=document.createElement("button");b.className="act";b.textContent=l;b.onclick=f;a.appendChild(b)}
+  btn("شاهد",function(){play(v)});
+  btn(st(v.id).save?"إزالة الحفظ":"احفظ",function(){st(v.id).save=!st(v.id).save;save();draw()});
+  btn(st(v.id).hide?"إظهار":"أخفِ",function(){st(v.id).hide=!st(v.id).hide;save();draw()});
+  [i,t,m,a].forEach(function(x){d.appendChild(x)});g.appendChild(d)});
+ document.getElementById("end").textContent=list.length?(tab=="new"?"خلصتِ. لا يوجد المزيد الآن.":""):"لا شيء هنا.";
+}
+fetch("data/videos.json").then(function(r){return r.json()}).then(function(j){V=j;draw()}).catch(function(){document.getElementById("end").textContent="تعذّر تحميل الفيديوهات. شغّلي التحديث من تبويب Actions."});
+</script>
+</body>
+</html>
