@@ -1,6 +1,6 @@
 import json, urllib.request, urllib.error, xml.etree.ElementTree as ET
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
-PER_CHANNEL = 5
+PER_CHANNEL = 8
 
 class NoRedirect(urllib.request.HTTPRedirectHandler):
     def redirect_request(self, *a, **k):
@@ -9,7 +9,7 @@ opener = urllib.request.build_opener(NoRedirect)
 
 def is_short(vid):
     # /shorts/ID answers 200 for Shorts and redirects for normal videos.
-    # On any doubt we keep the video.
+    # On any doubt we treat it as a normal video.
     try:
         r = opener.open(urllib.request.Request(f"https://www.youtube.com/shorts/{vid}", method="HEAD"), timeout=15)
         return r.status == 200
@@ -29,10 +29,8 @@ for ch in json.load(open("channels.json", encoding="utf-8")):
     n = 0
     for e in root.findall("a:entry", NS):
         vid = e.find("yt:videoId", NS).text
-        if is_short(vid):
-            continue
         out.append({"id": vid, "title": e.find("a:title", NS).text, "channel": ch["name"],
-                    "date": e.find("a:published", NS).text})
+                    "date": e.find("a:published", NS).text, "short": is_short(vid)})
         n += 1
         if n >= PER_CHANNEL:
             break
