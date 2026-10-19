@@ -96,7 +96,7 @@ function draw(){
   [i,t,m,a].forEach(function(x){d.appendChild(x)});g.appendChild(d)});
  document.getElementById("end").textContent=!V.length?"No videos yet. Run update-videos from the Actions tab.":L.length?"":"Nothing here.";
 }
-fetch("data/videos.json").then(function(r){return r.json()}).then(function(j){V=j;draw()}).catch(function(){document.getElementById("end").textContent="Could not load videos. Run update-videos from the Actions tab."});
+fetch("data/videos.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){V=j;draw()}).catch(function(){document.getElementById("end").textContent="Could not load videos. Run update-videos from the Actions tab."});
 </script>
 </body>
 </html>
