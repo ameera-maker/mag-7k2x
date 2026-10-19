@@ -43,7 +43,7 @@ var tab="latest",V=[],S={};
 try{S=JSON.parse(localStorage.getItem("mag2")||"{}")}catch(e){}
 function save(){try{localStorage.setItem("mag2",JSON.stringify(S))}catch(e){}}
 function st(id){return S[id]||(S[id]={})}
-var T={latest:"Latest",shorts:"Shorts",progress:"In progress",saved:"Saved",done:"Done",hidden:"Hidden"};
+var T={latest:"Latest",shorts:"Shorts",lists:"Lists",progress:"In progress",saved:"Saved",done:"Done",hidden:"Hidden"};
 function ago(d){var h=(Date.now()-new Date(d))/36e5;return h<24?"Today":h<48?"Yesterday":Math.floor(h/24)+" days ago"}
 function list(k){
  var seenCh={};
@@ -55,6 +55,8 @@ function list(k){
   if(k=="saved")return !!s.save;
   if(k=="progress")return s.seen&&!s.done;
   if(s.done)return false;
+  if(k=="lists")return !!v.pl;
+  if(v.pl)return false;
   if(k=="shorts")return !!v.short;
   if(v.short||seenCh[v.channel])return false;
   seenCh[v.channel]=1;return true;
