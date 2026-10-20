@@ -6,13 +6,17 @@
 <meta name="robots" content="noindex, nofollow">
 <title>My Magazine</title>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="https://www.youtube.com/iframe_api"></script>
 <style>
 :root{--bg:#eef1f0;--card:#fff;--tx:#14201d;--mut:#5f6f6a;--ac:#0f5c54;--bd:#d3dbd8}
 @media (prefers-color-scheme:dark){:root{--bg:#101716;--card:#192220;--tx:#e8efed;--mut:#93a39e;--ac:#5fc4b8;--bd:#2b3936}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--tx);font-family:"IBM Plex Sans Arabic",system-ui,sans-serif;line-height:1.7;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
 main{max-width:980px;margin:0 auto;padding:18px 14px 60px}
-h1{font-size:26px;margin:0 0 12px}
+h1{font-size:26px;margin:0 0 8px}
+#auth{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:14px;font-size:14px;color:var(--mut)}
+#auth input{font:inherit;padding:3px 10px;border:1px solid var(--bd);border-radius:8px;background:var(--card);color:var(--tx);min-width:220px}
 nav{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
 nav button,.act{font:inherit;cursor:pointer;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:8px;padding:2px 14px}
 nav button.on{background:var(--ac);border-color:var(--ac);color:#fff}
@@ -33,21 +37,80 @@ nav button.on{background:var(--ac);border-color:var(--ac);color:#fff}
 <body>
 <main>
 <h1>My Magazine</h1>
+<div id="auth"></div>
 <nav id="nav"></nav>
 <div id="player"></div>
 <div class="grid" id="grid"></div>
 <div class="empty" id="end"></div>
 </main>
 <script>
-var tab="latest",V=[],S={};
+/* ---- CHANGE THESE TWO LINES (keep the quotes) ---- */
+var SUPABASE_URL="PASTE_PROJECT_URL_HERE";
+var SUPABASE_KEY="PASTE_PUBLIC_KEY_HERE";
+/* -------------------------------------------------- */
+
+var tab="latest",ALL=[],S={},SB=null,USER=null,pushTimer=null,cur=null;
 try{S=JSON.parse(localStorage.getItem("mag2")||"{}")}catch(e){}
-function save(){try{localStorage.setItem("mag2",JSON.stringify(S))}catch(e){}}
+function save(){try{localStorage.setItem("mag2",JSON.stringify(S))}catch(e){} if(USER)push()}
 function st(id){return S[id]||(S[id]={})}
-var T={latest:"Latest",shorts:"Shorts",lists:"Lists",progress:"In progress",saved:"Saved",done:"Done",hidden:"Hidden"};
-function ago(d){var h=(Date.now()-new Date(d))/36e5;return h<24?"Today":h<48?"Yesterday":Math.floor(h/24)+" days ago"}
+function chg(id,fn){var s=st(id);fn(s);s.t=Date.now();save();draw()}
+function fmt(x){x=Math.floor(x);var m=Math.floor(x/60),s=x%60;return m+":"+(s<10?"0":"")+s}
+
+/* ---- sync ---- */
+function msg(t){var e=document.getElementById("sync");if(e)e.textContent=t}
+function merge(R){Object.keys(R||{}).forEach(function(id){var l=S[id],r=R[id];if(!l||(r.t||0)>(l.t||0))S[id]=r})}
+function pull(){
+ SB.from("magazine_state").select("data").eq("user_id",USER.id).maybeSingle().then(function(r){
+  if(r.error){msg("Sync error: "+r.error.message);return}
+  merge(r.data&&r.data.data);save();draw();msg("Synced");
+ });
+}
+function push(){
+ clearTimeout(pushTimer);
+ pushTimer=setTimeout(function(){
+  if(!USER)return;
+  SB.from("magazine_state").upsert({user_id:USER.id,data:S,updated_at:new Date().toISOString()}).then(function(r){msg(r.error?"Sync error: "+r.error.message:"Synced")});
+ },800);
+}
+function setUser(s){
+ var u=s?s.user:null;
+ if((u&&u.id)===(USER&&USER.id))return;
+ USER=u;drawAuth();if(USER)pull();
+}
+function drawAuth(){
+ var a=document.getElementById("auth");a.innerHTML="";
+ if(!SB)return;
+ if(USER){
+  var t=document.createElement("span");t.textContent="Signed in: "+USER.email;
+  var o=document.createElement("button");o.className="act";o.textContent="Sign out";o.onclick=function(){SB.auth.signOut()};
+  var m=document.createElement("span");m.id="sync";
+  a.appendChild(t);a.appendChild(o);a.appendChild(m);
+ }else{
+  var i=document.createElement("input");i.type="email";i.placeholder="your email";
+  var b=document.createElement("button");b.className="act";b.textContent="Email me a login link";
+  var m2=document.createElement("span");m2.id="sync";
+  b.onclick=function(){
+   if(!i.value)return;
+   SB.auth.signInWithOtp({email:i.value,options:{emailRedirectTo:location.origin+location.pathname}}).then(function(r){msg(r.error?r.error.message:"Check your email and open the link on this device.")});
+  };
+  a.appendChild(i);a.appendChild(b);a.appendChild(m2);
+ }
+}
+function initSync(){
+ if(!window.supabase||SUPABASE_URL.indexOf("PASTE")===0)return;
+ SB=supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
+ SB.auth.getSession().then(function(r){setUser(r.data.session)});
+ SB.auth.onAuthStateChange(function(e,s){setUser(s)});
+ document.addEventListener("visibilitychange",function(){if(!document.hidden&&USER)pull()});
+ drawAuth();
+}
+
+/* ---- magazine ---- */
+var T={latest:"Latest",shorts:"Shorts",old:"Old",lists:"Lists",progress:"In progress",saved:"Saved",done:"Done",hidden:"Hidden"};
+function ago(d){var h=(Date.now()-new Date(d))/36e5;return h<24?"Today":h<48?"Yesterday":h<24*60?Math.floor(h/24)+" days ago":Math.floor(h/24/30)+" months ago"}
 function list(k){
- var seenCh={};
- return V.filter(function(v){
+ var seenCh={},cnt={};
+ return ALL.filter(function(v){
   var s=st(v.id);
   if(k=="hidden")return !!s.hide;
   if(s.hide)return false;
@@ -55,6 +118,8 @@ function list(k){
   if(k=="saved")return !!s.save;
   if(k=="progress")return s.seen&&!s.done;
   if(s.done)return false;
+  if(k=="old"){if(!v.old)return false;cnt[v.channel]=(cnt[v.channel]||0)+1;return cnt[v.channel]<=3}
+  if(v.old)return false;
   if(k=="lists")return !!v.pl;
   if(v.pl)return false;
   if(k=="shorts")return !!v.short;
@@ -62,20 +127,46 @@ function list(k){
   seenCh[v.channel]=1;return true;
  });
 }
+
+/* ---- player with resume ---- */
+function savePos(){
+ if(!cur||!cur.p||!cur.p.getCurrentTime)return;
+ try{
+  var x=Math.floor(cur.p.getCurrentTime());
+  if(x>0&&x!==cur.last){cur.last=x;var s=st(cur.id);s.pos=x;s.t=Date.now();save()}
+ }catch(e){}
+}
+function stopPlayer(){
+ if(!cur)return;
+ savePos();clearInterval(cur.iv);cur=null;
+}
 function play(v){
- st(v.id).seen=1;save();
+ stopPlayer();
+ chg(v.id,function(s){s.seen=1});
+ var s=st(v.id),start=s.pos>10?s.pos-3:0;
  var p=document.getElementById("player");p.innerHTML="";
  var f=document.createElement("iframe");
+ f.id="ytf";
  f.setAttribute("sandbox","allow-scripts allow-same-origin allow-presentation");
  f.setAttribute("allow","encrypted-media; picture-in-picture; fullscreen");
  f.setAttribute("allowfullscreen","");
- f.src="https://www.youtube-nocookie.com/embed/"+v.id+"?rel=0&autoplay=1";
+ f.src="https://www.youtube-nocookie.com/embed/"+v.id+"?rel=0&autoplay=1&playsinline=1&enablejsapi=1&origin="+encodeURIComponent(location.origin)+(start?"&start="+start:"");
  var b=document.createElement("div");b.className="bar";
  var t=document.createElement("span");t.setAttribute("dir","auto");t.textContent=v.title;
- var c=document.createElement("button");c.className="act";c.textContent="Close";c.onclick=function(){p.innerHTML="";draw()};
+ var c=document.createElement("button");c.className="act";c.textContent="Close";c.onclick=function(){stopPlayer();p.innerHTML="";draw()};
  b.appendChild(t);b.appendChild(c);p.appendChild(f);p.appendChild(b);
+ if(window.YT&&YT.Player){
+  cur={id:v.id,last:0,p:null,iv:null};
+  cur.p=new YT.Player("ytf",{events:{onStateChange:function(e){
+   if(e.data===0){var q=st(v.id);q.pos=0;q.t=Date.now();save()}
+   else if(e.data===2){savePos()}
+  }}});
+  cur.iv=setInterval(savePos,5000);
+ }
  window.scrollTo({top:0,behavior:"smooth"});
 }
+window.addEventListener("pagehide",stopPlayer);
+
 function draw(){
  var n=document.getElementById("nav");n.innerHTML="";
  Object.keys(T).forEach(function(k){var b=document.createElement("button");b.textContent=T[k]+" ("+list(k).length+")";if(k==tab)b.className="on";b.onclick=function(){tab=k;draw()};n.appendChild(b)});
@@ -86,17 +177,24 @@ function draw(){
   var d=document.createElement("div");d.className="v";
   var i=document.createElement("img");i.loading="lazy";i.alt="";i.src="https://i.ytimg.com/vi/"+v.id+"/hqdefault.jpg";i.onclick=function(){play(v)};
   var t=document.createElement("div");t.className="t";t.setAttribute("dir","auto");t.textContent=v.title;
-  var m=document.createElement("div");m.className="m";m.setAttribute("dir","auto");m.textContent=v.channel+" — "+ago(v.date)+(s.done?" — Done":s.seen?" — In progress":"");
+  var m=document.createElement("div");m.className="m";m.setAttribute("dir","auto");
+  m.textContent=v.channel+" — "+ago(v.date)+(s.done?" — Done":s.seen?(s.pos>10?" — Resume at "+fmt(s.pos):" — In progress"):"");
   var a=document.createElement("div");a.className="a";
   function btn(l,f){var b=document.createElement("button");b.className="act";b.textContent=l;b.onclick=f;a.appendChild(b)}
-  btn("Watch",function(){play(v)});
-  btn(s.done?"Undo":"Done",function(){s.done=!s.done;save();draw()});
-  btn(s.save?"Unsave":"Save",function(){s.save=!s.save;save();draw()});
-  btn(s.hide?"Unhide":"Hide",function(){s.hide=!s.hide;save();draw()});
+  btn(s.pos>10&&!s.done?"Resume":"Watch",function(){play(v)});
+  btn(s.done?"Undo":"Done",function(){chg(v.id,function(x){x.done=!x.done})});
+  btn(s.save?"Unsave":"Save",function(){chg(v.id,function(x){x.save=!x.save})});
+  btn(s.hide?"Unhide":"Hide",function(){chg(v.id,function(x){x.hide=!x.hide})});
   [i,t,m,a].forEach(function(x){d.appendChild(x)});g.appendChild(d)});
- document.getElementById("end").textContent=!V.length?"No videos yet. Run update-videos from the Actions tab.":L.length?"":"Nothing here.";
+ document.getElementById("end").textContent=!ALL.length?"No videos yet. Run update-videos from the Actions tab.":L.length?"":"Nothing here.";
 }
-fetch("data/videos.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){V=j;draw()}).catch(function(){document.getElementById("end").textContent="Could not load videos. Run update-videos from the Actions tab."});
+
+initSync();
+function load(u){return fetch(u+"?t="+Date.now()).then(function(r){return r.ok?r.json():[]}).catch(function(){return null})}
+Promise.all([load("data/videos.json"),load("data/archive.json")]).then(function(r){
+ if(r[0]===null){document.getElementById("end").textContent="Could not load videos. Run update-videos from the Actions tab.";return}
+ ALL=r[0].concat(r[1]||[]);draw();
+});
 </script>
 </body>
 </html>
