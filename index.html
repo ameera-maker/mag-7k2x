@@ -142,7 +142,7 @@ function stopPlayer(){
 }
 function play(v){
  stopPlayer();
- chg(v.id,function(s){s.seen=1});
+ setTimeout(function(){var f=document.getElementById("ytf"),q=st(v.id);if(f&&f.src.indexOf(v.id)>-1&&!q.seen){q.seen=1;q.t=Date.now();save();draw()}},15000);
  var s=st(v.id),start=s.pos>10?s.pos-3:0;
  var p=document.getElementById("player");p.innerHTML="";
  var f=document.createElement("iframe");
@@ -181,7 +181,7 @@ function draw(){
   m.textContent=v.channel+" — "+ago(v.date)+(s.done?" — Done":s.seen?(s.pos>10?" — Resume at "+fmt(s.pos):" — In progress"):"");
   var a=document.createElement("div");a.className="a";
   function btn(l,f){var b=document.createElement("button");b.className="act";b.textContent=l;b.onclick=f;a.appendChild(b)}
-  btn(s.pos>10&&!s.done?"Resume":"Watch",function(){play(v)});
+  btn(s.pos>10&&!s.done?"Resume":"Watch",function(){play(v)});   if(s.seen&&!s.done)btn("Not now",function(){chg(v.id,function(x){x.seen=0;x.pos=0})});
   btn(s.done?"Undo":"Done",function(){chg(v.id,function(x){x.done=!x.done})});
   btn(s.save?"Unsave":"Save",function(){chg(v.id,function(x){x.save=!x.save})});
   btn(s.hide?"Unhide":"Hide",function(){chg(v.id,function(x){x.hide=!x.hide})});
