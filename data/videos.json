@@ -1,5 +1,103 @@
 [
  {
+  "id": "bB2DRHMp79M",
+  "title": "What Happens When You Put Castor Oil in Your Belly Button?",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-10-27T12:00:09+00:00",
+  "short": true
+ },
+ {
+  "id": "SDYU4m-Pvlk",
+  "title": "كيف تغيرت خريطة شبه الجزيرة العربية عبر العصور | بودكاست مناقشة",
+  "channel": "إذاعة مختلف",
+  "date": "2026-10-27T11:07:22+00:00",
+  "short": false
+ },
+ {
+  "id": "8DvYYXHbyio",
+  "title": "تخيل تاكل رغفين في الوجبه وتخس 😱#عيش #الرجيم وصفاتEmanabdullah",
+  "channel": "وصفات Eman abdullah",
+  "date": "2026-10-27T10:40:04+00:00",
+  "short": true
+ },
+ {
+  "id": "1e1s8GNYisE",
+  "title": "خصال الفطرة",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-10-27T10:31:26+00:00",
+  "short": false
+ },
+ {
+  "id": "lLrYSPl8cpg",
+  "title": "تخيل تاكل رغفين بالوجبه وتخسي ‼️خبز الرجيم بدون خميره شبع يدوم ٦ساعات وصفاتEmanabdullah ",
+  "channel": "وصفات Eman abdullah",
+  "date": "2026-10-27T10:02:45+00:00",
+  "short": false
+ },
+ {
+  "id": "ECeO3ORW3vk",
+  "title": "83- تلاوة من سورة التوبة - عزت جمال - أسوياء",
+  "channel": "Mustafa Hosny",
+  "date": "2026-10-27T10:00:28+00:00",
+  "short": false
+ },
+ {
+  "id": "ApncBU2CnZI",
+  "title": "هل يجوز انتخاب مسيحي في البرلمان عن دائرة مسلمة",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-10-27T09:33:21+00:00",
+  "short": false
+ },
+ {
+  "id": "xwhJcZ2MVG0",
+  "title": "الألم اللي بتهرب منه هو الباب اللي هتعدّي منه",
+  "channel": "Mohamed Shabka",
+  "date": "2026-10-27T09:12:38+00:00",
+  "short": true
+ },
+ {
+  "id": "y2JM3kg2SXs",
+  "title": "الشيك الذي هزم السرطان",
+  "channel": "اقتصاد الكوكب",
+  "date": "2026-10-27T09:00:37+00:00",
+  "short": true
+ },
+ {
+  "id": "vQxlfcWazKo",
+  "title": "راشد الشمراني: لماذا يقرر الاعتزال بعد كل عمل | بودكاست النشرة السينمائية",
+  "channel": "إذاعة ثمانية",
+  "date": "2026-10-27T09:00:22+00:00",
+  "short": false
+ },
+ {
+  "id": "SKYAppW68CA",
+  "title": "212 - تفسير الآيات (72 - 74) من سورة آل عمران - تأملات في كتاب الله - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-10-27T08:00:23+00:00",
+  "short": false
+ },
+ {
+  "id": "u9Wyg9y2ZJ0",
+  "title": "تعرف على ما يحرم على المسلم التداوي به | فتاوى فضيلة الشيخ محمد الحسن الددو ",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-10-27T07:36:26+00:00",
+  "short": false
+ },
+ {
+  "id": "SJvslMvn6_I",
+  "title": "عبدالرحمن الراشد: أين السعودية في حرائق الشرق الأوسط | بودكاست سقراط",
+  "channel": "إذاعة ثمانية",
+  "date": "2026-10-27T02:30:01+00:00",
+  "short": false
+ },
+ {
+  "id": "esvCgoH4V7I",
+  "title": "School Bus Hero: The Faith Behind The Courage | Ebro Ahmed and Dr. Omar Suleiman",
+  "channel": "Yaqeen Institute",
+  "date": "2026-10-27T00:42:04+00:00",
+  "short": false
+ },
+ {
   "id": "2G7Q9Adxqc8",
   "title": "Is AI Haram? | Sh. Mohammad Elshinawy",
   "channel": "Yaqeen Institute",
@@ -12,13 +110,6 @@
   "channel": "Dr. Eric Berg DC",
   "date": "2026-10-26T22:00:22+00:00",
   "short": true
- },
- {
-  "id": "esvCgoH4V7I",
-  "title": "School Bus Hero: The Faith Behind The Courage | Ebro Ahmed and Dr. Omar Suleiman | LIVE",
-  "channel": "Yaqeen Institute",
-  "date": "2026-10-26T20:27:26+00:00",
-  "short": false
  },
  {
   "id": "F3GGCbPJJc4",
@@ -40,6 +131,13 @@
   "channel": "إذاعة مختلف",
   "date": "2026-10-26T19:22:54+00:00",
   "short": true
+ },
+ {
+  "id": "Kif0-uFmi_I",
+  "title": "هل يجوز للمسلم الحصول على جنسية دولة غير مسلمة",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-10-26T19:19:45+00:00",
+  "short": false
  },
  {
   "id": "aLNfN_i9yLk",
@@ -161,13 +259,6 @@
   "short": true
  },
  {
-  "id": "y-3V8Cuk_EY",
-  "title": "لا تقارن نفسك… أنت لا تعرف ظروف غيرك | عبد الرحمن الباهلي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-10-26T13:58:37+00:00",
-  "short": true
- },
- {
   "id": "8x2xyX2Oafw",
   "title": "هل مخاطرة المشاريع أعلى من الوظيفة؟ 🏢 | #بودكاست_جادي",
   "channel": "إذاعة ثمانية",
@@ -217,13 +308,6 @@
   "short": false
  },
  {
-  "id": "rTEE-GowYDo",
-  "title": "خروج المعتدة من بيتها",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-10-26T07:27:25+00:00",
-  "short": false
- },
- {
   "id": "dA6AFoKBS2Q",
   "title": "أنت محظوظ إن اجتمعت هذه الصفات في مديرك! 👆 | #بودكاست_فنجان",
   "channel": "إذاعة ثمانية",
@@ -270,13 +354,6 @@
   "title": "التعامل مع المتغيرات - مصطفى حسني - ندوة جامعة ٦ أكتوبر",
   "channel": "Mustafa Hosny",
   "date": "2026-10-25T19:21:26+00:00",
-  "short": false
- },
- {
-  "id": "pHhteGQSmt4",
-  "title": "التفصيل في لبس الجوربين",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-10-25T18:22:16+00:00",
   "short": false
  },
  {
@@ -371,24 +448,10 @@
   "short": false
  },
  {
-  "id": "DXG4BHJm0Hs",
-  "title": "جواز السعي لرفع الإنسان الظلم عن نفسه | فتاوى فضيلة الشيخ محمد الحسن الددو",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-10-25T11:18:52+00:00",
-  "short": false
- },
- {
   "id": "-NgMVsoHFjI",
   "title": "جربي تعملي القرنبيط بالطريقه دي في ال #دايت ‼️بدون اي دقيق لا زيت ولا بيض كتير وصفاتEmanabdullah ",
   "channel": "وصفات Eman abdullah",
   "date": "2026-10-25T10:36:26+00:00",
-  "short": false
- },
- {
-  "id": "mMieNKd_w8w",
-  "title": "من أعظم الأعمال رد الغيبة عن أخيك - قصص الصحابة - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-10-25T10:00:11+00:00",
   "short": false
  },
  {
@@ -411,13 +474,6 @@
   "channel": "فقه النفس / مكاني",
   "date": "2026-10-25T08:52:37+00:00",
   "short": true
- },
- {
-  "id": "K2yCeHzSqQI",
-  "title": "هل صحيح أن الموتى يسمعون الأحياء ؟ فضيلة الشيخ محمد الحسن الددو يجيب",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-10-25T08:50:19+00:00",
-  "short": false
  },
  {
   "id": "-e4K3Nh8kE8",
@@ -446,13 +502,6 @@
   "channel": "عبد الدائم الكحيل",
   "date": "2026-10-24T19:30:08+00:00",
   "short": false
- },
- {
-  "id": "FFP0GXaGqyk",
-  "title": "إزاي أحافظ على قلبي من الرياء؟ - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-10-24T18:00:04+00:00",
-  "short": true
  },
  {
   "id": "SxCYuVqMagc",
@@ -504,13 +553,6 @@
   "short": false
  },
  {
-  "id": "fOWV_NxzNxo",
-  "title": "ما يضرك أن عندك اكتئاب! 😐 | #بودكاست_فنجان",
-  "channel": "إذاعة ثمانية",
-  "date": "2026-10-24T15:00:04+00:00",
-  "short": true
- },
- {
   "id": "R2naTGR6bfs",
   "title": "Where does your FOOD GUILT come from?",
   "channel": "Pick Up Limes",
@@ -523,13 +565,6 @@
   "channel": "Yaqeen Institute",
   "date": "2026-10-24T14:00:07+00:00",
   "short": false
- },
- {
-  "id": "ZOEFP_57RsM",
-  "title": "«ياما بذرنا الطيب في راعي الطيب.. وفي جاحد المعروف ياما بذرنا» | #ذا_قال",
-  "channel": "إذاعة ثمانية",
-  "date": "2026-10-24T13:00:05+00:00",
-  "short": true
  },
  {
   "id": "qovnfjVd8cs",
@@ -585,13 +620,6 @@
   "title": "ماذا يحدث لجسمك بعد 30 يوماً من الكرياتين؟ نتائج مذهلة بعد سن الخمسين",
   "channel": "دكتور بيرج بالعربي",
   "date": "2026-10-23T16:15:36+00:00",
-  "short": false
- },
- {
-  "id": "NKZriblxODU",
-  "title": "The Dr. Berg Show LIVE - October 23, 2026",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-10-23T16:04:02+00:00",
   "short": false
  },
  {
@@ -679,13 +707,6 @@
   "short": false
  },
  {
-  "id": "LyZ5xFULF84",
-  "title": "الزبادي اليوناني اسهل طريقه وصفاتEmanabdullah",
-  "channel": "وصفات Eman abdullah",
-  "date": "2026-10-22T17:25:30+00:00",
-  "short": true
- },
- {
   "id": "M7tbHsPPcqs",
   "title": "روتيني الصباحي قبل المشوار الجميل 😍لمعت الطناجر بعد ماكانو مسودات،تنظيف خارجي وشطف ،آخرمرة لجز العشل",
   "channel": "جيلان شانيل",
@@ -698,13 +719,6 @@
   "channel": "جيلان شانيل",
   "date": "2026-10-22T13:37:42+00:00",
   "short": true
- },
- {
-  "id": "_9rW3kn3H_E",
-  "title": "هو ده وقتها‼️ برونيز الشوكولاته قنبله شبع وفيتامينات بدون بيض ولا حليب ولا دهون ولا نقطه سكر ",
-  "channel": "وصفات Eman abdullah",
-  "date": "2026-10-22T13:32:25+00:00",
-  "short": false
  },
  {
   "id": "x8w-3OpWLMc",
@@ -733,13 +747,6 @@
   "channel": "السبيل",
   "date": "2026-10-21T20:08:33+00:00",
   "short": false
- },
- {
-  "id": "HolhOzy-kvg",
-  "title": "صفقة بوتين لترامب: 36 مليون برميل تكفي أميركا 10 أيام فقط",
-  "channel": "اقتصاد الكوكب",
-  "date": "2026-10-21T17:10:39+00:00",
-  "short": true
  },
  {
   "id": "SbjlueE9B_M",
@@ -1293,13 +1300,6 @@
   "channel": "Therapy in a Nutshell",
   "date": "2026-09-17T13:00:12+00:00",
   "short": false
- },
- {
-  "id": "TS-0wJNFbwU",
-  "title": "لماذا لا نجد الراحة فى الفراغ وكيف يتحقق السكون الداخلي",
-  "channel": "Mohamed Shabka",
-  "date": "2026-09-15T14:48:32+00:00",
-  "short": true
  },
  {
   "id": "zVP2oNnkWFo",
