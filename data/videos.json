@@ -1,5 +1,117 @@
 [
  {
+  "id": "NJHVM3Cnk3I",
+  "title": "Why Heaven exists | Dr. Farah Islam",
+  "channel": "Yaqeen Institute",
+  "date": "2026-10-28T18:18:55+00:00",
+  "short": true
+ },
+ {
+  "id": "7vVI6GJ8zdc",
+  "title": "حوّل جروب واتساب إلى سوق سمك | عبدالرحمن الحربي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-10-28T18:00:21+00:00",
+  "short": true
+ },
+ {
+  "id": "h_sack1U3NY",
+  "title": "هناك فارق بين بر الوالدين وإرضاء الوالدين! - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-10-28T18:00:06+00:00",
+  "short": true
+ },
+ {
+  "id": "1bfm0rTT0E8",
+  "title": "أميركا لديها فائض سولار.. فلماذا تدفع أعلى سعر في تاريخها؟",
+  "channel": "اقتصاد الكوكب",
+  "date": "2026-10-28T17:30:08+00:00",
+  "short": true
+ },
+ {
+  "id": "TdbxgTxMGeo",
+  "title": "حكم بيع الشيئين بنفس الثمن  |  فضيلة الشيخ محمد الحسن الددو ",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-10-28T17:05:38+00:00",
+  "short": false
+ },
+ {
+  "id": "i6WWxYW6QKQ",
+  "title": "الدرس 94 - صلاة الجماعة في صلاة العيد - شرح كتاب الفقه الواضح - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-10-28T17:00:30+00:00",
+  "short": false
+ },
+ {
+  "id": "ARWYFl4iph8",
+  "title": "رحنا ع الميديا ماركت لاشتري مكنسة كهربائية🤷🏽‍♀️ مشترياتنا المولدنة من الاكشن🤣بنتي رجعتني للملصقات",
+  "channel": "جيلان شانيل",
+  "date": "2026-10-28T17:00:03+00:00",
+  "short": false
+ },
+ {
+  "id": "k5iFArq7w2s",
+  "title": "قد يأتيك الخير من الجهة التي تكرهها | حمد العتيق",
+  "channel": "إذاعة مختلف",
+  "date": "2026-10-28T16:30:25+00:00",
+  "short": true
+ },
+ {
+  "id": "lln-bqJVPsE",
+  "title": "ثمرة أقسم الله بها.. ماذا يحدث لك إذا أكلتها كل يوم؟",
+  "channel": "عبد الدائم الكحيل",
+  "date": "2026-10-28T16:25:47+00:00",
+  "short": false
+ },
+ {
+  "id": "q6LQ8xvbjZg",
+  "title": "The Dr. Berg Show LIVE - October 30, 2026",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-10-28T15:15:01+00:00",
+  "short": false
+ },
+ {
+  "id": "ojI79ZWDS7E",
+  "title": "عرفت فالزم فضيلة الشيخ محمد الحسن الددو",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-10-28T14:50:31+00:00",
+  "short": true
+ },
+ {
+  "id": "xxvbqKG9izk",
+  "title": "Discover Yaqeen’s Top 10 Most-Watched Videos",
+  "channel": "Yaqeen Institute",
+  "date": "2026-10-28T14:32:00+00:00",
+  "short": true
+ },
+ {
+  "id": "iXAAHLzX0BI",
+  "title": "المدن كانت تتحرك… كيف نفهم الخرائط القديمة؟ | عبد الله المنيف",
+  "channel": "إذاعة مختلف",
+  "date": "2026-10-28T14:00:39+00:00",
+  "short": true
+ },
+ {
+  "id": "iQ_2hB2qCFI",
+  "title": "Why Muslim Leaders Need to Challenge Society’s Falsehoods | Snapshots with Imam Tom Facchine",
+  "channel": "Yaqeen Institute",
+  "date": "2026-10-28T14:00:08+00:00",
+  "short": false
+ },
+ {
+  "id": "-tsbGH5Fac4",
+  "title": "How to accept compliments 💐",
+  "channel": "Pick Up Limes",
+  "date": "2026-10-28T13:45:51+00:00",
+  "short": true
+ },
+ {
+  "id": "83uVd5J1GSc",
+  "title": "هل استطاع الفلم الجديد منافسة «The Social Network»؟ 🎬🔥",
+  "channel": "إذاعة ثمانية",
+  "date": "2026-10-28T13:00:19+00:00",
+  "short": true
+ },
+ {
   "id": "FAL6IxmJA3g",
   "title": "قرص صحيه خاليه جلوتين بدون عجن ولا تخمير وصفات ايمان عبدالله",
   "channel": "وصفات Eman abdullah",
@@ -63,13 +175,6 @@
   "short": true
  },
  {
-  "id": "iQ_2hB2qCFI",
-  "title": "Why Muslim Leaders Need to Challenge Society’s Falsehoods | Snapshots with Imam Tom Facchine",
-  "channel": "Yaqeen Institute",
-  "date": "2026-10-28T04:45:12+00:00",
-  "short": false
- },
- {
   "id": "C75mxHXvvGU",
   "title": "Does Your Shaytan Have Hope In You? | Dr. Omar Suleiman",
   "channel": "Yaqeen Institute",
@@ -109,27 +214,6 @@
   "title": "مقام غالي لمن عفا عن اخيه - مصطفى حسني",
   "channel": "Mustafa Hosny",
   "date": "2026-10-27T20:00:08+00:00",
-  "short": true
- },
- {
-  "id": "K3CwhLgwMcg",
-  "title": "أخطبوط يفتح العلبة من الداخل ويهرب! | عبدالرحمن الحربي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-10-27T19:45:08+00:00",
-  "short": true
- },
- {
-  "id": "q9sauX2_H9Q",
-  "title": "الحب الأكبر: كيف تصبح محبة الله أعظم ما في قلبك | بودكاست بترولي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-10-27T19:36:21+00:00",
-  "short": false
- },
- {
-  "id": "q4NMHnn4BhQ",
-  "title": "كيف بنينا تطبيق كيو؟ | محمد عمر",
-  "channel": "إذاعة مختلف",
-  "date": "2026-10-27T19:00:27+00:00",
   "short": true
  },
  {
@@ -301,13 +385,6 @@
   "short": false
  },
  {
-  "id": "u9Wyg9y2ZJ0",
-  "title": "تعرف على ما يحرم على المسلم التداوي به | فتاوى فضيلة الشيخ محمد الحسن الددو ",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-10-27T07:36:26+00:00",
-  "short": false
- },
- {
   "id": "SJvslMvn6_I",
   "title": "عبدالرحمن الراشد: أين السعودية في حرائق الشرق الأوسط | بودكاست سقراط",
   "channel": "إذاعة ثمانية",
@@ -336,24 +413,10 @@
   "short": true
  },
  {
-  "id": "F3GGCbPJJc4",
-  "title": "من صور حفظ الله لك! - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-10-26T20:00:36+00:00",
-  "short": true
- },
- {
   "id": "5OC15uBq69g",
   "title": "اقرأ آيات الشفاء هذه على العسل وسترى عجباً ( شرح عملي )",
   "channel": "عبد الدائم الكحيل",
   "date": "2026-10-26T20:00:02+00:00",
-  "short": false
- },
- {
-  "id": "Kif0-uFmi_I",
-  "title": "هل يجوز للمسلم الحصول على جنسية دولة غير مسلمة",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-10-26T19:19:45+00:00",
   "short": false
  },
  {
@@ -382,13 +445,6 @@
   "title": "يوم العطلة قبل المدرسة جولة في سوق الأحد مشترياتي😍 فطور العيلة والغدا وصفة دجاج خطيرة لازم تجربوها👌🏽",
   "channel": "جيلان شانيل",
   "date": "2026-10-26T17:00:34+00:00",
-  "short": false
- },
- {
-  "id": "2hpUzhWanrw",
-  "title": "الدرس 43 -اسم الله الحفيظ جل جلاله - كتاب شرح أسماء الله الحسنى - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-10-26T17:00:30+00:00",
   "short": false
  },
  {
@@ -504,13 +560,6 @@
   "short": true
  },
  {
-  "id": "ZEtMUqIic2U",
-  "title": "When Parents Aren't The Priority Anymore | Dr. Omar Suleiman",
-  "channel": "Yaqeen Institute",
-  "date": "2026-10-25T17:16:11+00:00",
-  "short": true
- },
- {
   "id": "E_uf7iD8Q-g",
   "title": "بيوم واحد اشتريت راحتي لبداية أسبوع المدارس 👌🏽تنظيف وتنظيم وخطط جديدة للسيطرة على الفوضى🤷🏽‍♀️",
   "channel": "جيلان شانيل",
@@ -522,13 +571,6 @@
   "title": "شاهد الحلقة قريبًا على تطبيق «ثمانية». 🎙️",
   "channel": "إذاعة ثمانية",
   "date": "2026-10-25T17:00:22+00:00",
-  "short": true
- },
- {
-  "id": "8gA3Ksx4KMA",
-  "title": "The Year Muslims Nearly Disappeared | Official Teaser for an All-New Yaqeen Original Series",
-  "channel": "Yaqeen Institute",
-  "date": "2026-10-25T16:00:29+00:00",
   "short": true
  },
  {
@@ -585,20 +627,6 @@
   "title": ".",
   "channel": "فقه النفس / مكاني",
   "date": "2026-10-25T08:52:37+00:00",
-  "short": true
- },
- {
-  "id": "-e4K3Nh8kE8",
-  "title": "إذا كنت تشرب القهوة وتنام، فهذا المقطع لك! ☕ | #بودكاست_فنجان.",
-  "channel": "إذاعة ثمانية",
-  "date": "2026-10-25T07:00:11+00:00",
-  "short": true
- },
- {
-  "id": "uSkDoAE9qxw",
-  "title": "What Happens When You Take 5g of Creatine Every Day?",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-10-24T22:00:04+00:00",
   "short": true
  },
  {
@@ -700,13 +728,6 @@
   "short": false
  },
  {
-  "id": "cV-rDNKaSbU",
-  "title": "راهنوا على سقوط الشركة.. ففاجأتهم بلقاح ضد السرطان!.. زلزال موديرنا",
-  "channel": "اقتصاد الكوكب",
-  "date": "2026-10-23T15:30:11+00:00",
-  "short": false
- },
- {
   "id": "zikV9pEXd6c",
   "title": "الكيكه المجنونه 😱بدون دقيق لا بيض لا حليب لا فرن وصفاتEmanabdullah",
   "channel": "وصفات Eman abdullah",
@@ -767,13 +788,6 @@
   "title": "إزاي تعمل موقع 3D Scroll زي موقع أبل بالذكاء الاصطناعي",
   "channel": "غريب الشيخ",
   "date": "2026-10-22T17:27:59+00:00",
-  "short": false
- },
- {
-  "id": "M7tbHsPPcqs",
-  "title": "روتيني الصباحي قبل المشوار الجميل 😍لمعت الطناجر بعد ماكانو مسودات،تنظيف خارجي وشطف ،آخرمرة لجز العشل",
-  "channel": "جيلان شانيل",
-  "date": "2026-10-22T17:00:34+00:00",
   "short": false
  },
  {
@@ -886,20 +900,6 @@
   "title": "كيف أفهم؟ كيف أعقل؟ 20 مُخرَجات | هل أعبر عن شعوري؟ وكيف؟ وما الأصح؟ وما علاقة ذلك بالقوة أو الضعف؟",
   "channel": "فقه النفس / مكاني",
   "date": "2026-10-19T09:10:30+00:00",
-  "short": false
- },
- {
-  "id": "IfNJS1qgKhw",
-  "title": "When you want cinnamon rolls NOW 🤎",
-  "channel": "Pick Up Limes",
-  "date": "2026-10-18T14:56:49+00:00",
-  "short": true
- },
- {
-  "id": "DH9MXlOssac",
-  "title": "شراب نزل من الجنة... ماذا يحدث إذا تناولته بعد 14 يوم؟",
-  "channel": "عبد الدائم الكحيل",
-  "date": "2026-10-17T20:39:24+00:00",
   "short": false
  },
  {
