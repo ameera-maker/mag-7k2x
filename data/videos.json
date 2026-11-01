@@ -1,9 +1,58 @@
 [
  {
+  "id": "FvxpFj2_GrY",
+  "title": "ثمانية أسئلة مع كاتب روايات",
+  "channel": "إذاعة ثمانية",
+  "date": "2026-11-01T12:30:01+00:00",
+  "short": false
+ },
+ {
+  "id": "yLalgHqSOC0",
+  "title": "حين يضل المزكي",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-01T12:15:07+00:00",
+  "short": false
+ },
+ {
+  "id": "wxUnLKwueVg",
+  "title": "ابعد عن الفتنة قدر الاستطاعة - قصص الصحابة - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-01T11:00:10+00:00",
+  "short": false
+ },
+ {
+  "id": "I5VVpUfcwl8",
+  "title": "{ فلما ذهبوا به وأجمعوا أن يجعلوه في غيابات الجب } |  فضيلة الشيخ محمد الحسن الددو",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-01T10:33:02+00:00",
+  "short": false
+ },
+ {
+  "id": "cH_T1VGn3Vk",
+  "title": "السعودية تتجاوز هرمز في 8 أسابيع.. بخط غاز!",
+  "channel": "اقتصاد الكوكب",
+  "date": "2026-11-01T10:00:08+00:00",
+  "short": true
+ },
+ {
+  "id": "r0s6GIsxn4M",
+  "title": "10 Common Causes of Inflammation",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-10-31T22:00:21+00:00",
+  "short": true
+ },
+ {
   "id": "APpJn2ePJG0",
   "title": "هل للنوافل إقامة ؟ | فتاوى فضيلة الشيخ محمد الحسن الددو ",
   "channel": "محمد الحسن الددو",
   "date": "2026-10-31T20:26:04+00:00",
+  "short": false
+ },
+ {
+  "id": "zixQxTYDjg0",
+  "title": "أبشر بفرج قريب.. 3 علامات للأمل والفرح والخير الكثير",
+  "channel": "عبد الدائم الكحيل",
+  "date": "2026-10-31T19:22:01+00:00",
   "short": false
  },
  {
@@ -40,6 +89,20 @@
   "channel": "إذاعة مختلف",
   "date": "2026-10-31T19:17:49+00:00",
   "short": true
+ },
+ {
+  "id": "42TTzaHYLWE",
+  "title": "مش عايز أشحت حقوقي! - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-10-31T19:00:26+00:00",
+  "short": true
+ },
+ {
+  "id": "LhdgDydibwA",
+  "title": "حرب السودان: الجزء الأخير | مالك يوثق",
+  "channel": "إذاعة ثمانية",
+  "date": "2026-10-31T19:00:24+00:00",
+  "short": false
  },
  {
   "id": "Vf2Me8ztmok",
@@ -266,13 +329,6 @@
   "short": false
  },
  {
-  "id": "vyEDsQMPEnc",
-  "title": "التوسل بالعمل الصالح ",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-10-30T15:52:18+00:00",
-  "short": false
- },
- {
   "id": "jOsLIUZmkuk",
   "title": "Last chance to get these recipes! 🚨",
   "channel": "Pick Up Limes",
@@ -326,13 +382,6 @@
   "title": "الذكاء الاصطناعي مش السبب الوحيد! وفي أسباب تانية مش بيقولوها!",
   "channel": "غريب الشيخ",
   "date": "2026-10-30T11:18:20+00:00",
-  "short": false
- },
- {
-  "id": "35oXWUtc1mI",
-  "title": "حكم الخطب المفروضة من حكومات منحرفة",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-10-30T11:08:39+00:00",
   "short": false
  },
  {
@@ -434,13 +483,6 @@
   "short": false
  },
  {
-  "id": "8q1kvDLmmqg",
-  "title": "الدرس 94 - شرح كتاب بداية الهداية  - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-10-29T17:00:04+00:00",
-  "short": false
- },
- {
   "id": "PRGVYYmXI_g",
   "title": "سلة اللذاذة #shortvideo #اكسبلور #وصفات #بستنة #فولو",
   "channel": "جيلان شانيل",
@@ -525,13 +567,6 @@
   "short": false
  },
  {
-  "id": "h_sack1U3NY",
-  "title": "هناك فارق بين بر الوالدين وإرضاء الوالدين! - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-10-28T18:00:06+00:00",
-  "short": true
- },
- {
   "id": "1bfm0rTT0E8",
   "title": "أميركا لديها فائض سولار.. فلماذا تدفع أعلى سعر في تاريخها؟",
   "channel": "اقتصاد الكوكب",
@@ -574,13 +609,6 @@
   "short": true
  },
  {
-  "id": "G92yLey1b5w",
-  "title": "Doctors Won't Tell You About These Natural Remedies",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-10-28T12:00:01+00:00",
-  "short": true
- },
- {
   "id": "uLl7y2xYwEg",
   "title": "يتحدث عبدالرحمن الراشد عن شخصية عبدالملك الحوثي، وطبيعة مشروعه في اليمن. في #بودكاست_سقراط",
   "channel": "إذاعة ثمانية",
@@ -614,13 +642,6 @@
   "channel": "جيل يقرأ",
   "date": "2026-10-27T17:36:56+00:00",
   "short": false
- },
- {
-  "id": "jnuRwHOc2HA",
-  "title": "لماذا لا يستطيع ترامب لمس أرباح المصافي؟",
-  "channel": "اقتصاد الكوكب",
-  "date": "2026-10-27T17:30:30+00:00",
-  "short": true
  },
  {
   "id": "CMEbXLdOBd4",
@@ -742,13 +763,6 @@
   "short": false
  },
  {
-  "id": "dA6AFoKBS2Q",
-  "title": "أنت محظوظ إن اجتمعت هذه الصفات في مديرك! 👆 | #بودكاست_فنجان",
-  "channel": "إذاعة ثمانية",
-  "date": "2026-10-26T07:00:05+00:00",
-  "short": true
- },
- {
   "id": "fcMKrluECnA",
   "title": "الواقع ألطف من الصوت اللي فى دماغنا",
   "channel": "Mohamed Shabka",
@@ -782,13 +796,6 @@
   "channel": "دكتور بيرج بالعربي",
   "date": "2026-10-25T17:46:53+00:00",
   "short": false
- },
- {
-  "id": "dS9wy96OBYg",
-  "title": "شاهد الحلقة قريبًا على تطبيق «ثمانية». 🎙️",
-  "channel": "إذاعة ثمانية",
-  "date": "2026-10-25T17:00:22+00:00",
-  "short": true
  },
  {
   "id": "gDQyPy09Byw",
@@ -866,13 +873,6 @@
   "channel": "كوتش سما",
   "date": "2026-10-23T20:29:12+00:00",
   "short": true
- },
- {
-  "id": "X1poIW_K-c0",
-  "title": "لماذا خلق الله الخفافيش؟ لن تصدق ماذا يأكل!",
-  "channel": "عبد الدائم الكحيل",
-  "date": "2026-10-23T18:39:40+00:00",
-  "short": false
  },
  {
   "id": "DXR6_tmmsjo",
