@@ -1,5 +1,96 @@
 [
  {
+  "id": "DailKmfVqsQ",
+  "title": "إياك وتضييع الوقت | فضيلة الشيخ محمد الحسن الددو",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-03T12:47:42+00:00",
+  "short": false
+ },
+ {
+  "id": "uUiHb6z-7zc",
+  "title": "جبلنا الجليدي يذوب: كيف ترى الخطر وتقود التغيير | بودكاست غلاف",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-03T12:27:24+00:00",
+  "short": false
+ },
+ {
+  "id": "5GNiZgC2RJQ",
+  "title": "213 - تفسير الآيات (75 - 76) من سورة آل عمران - تأملات في كتاب الله - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-03T09:00:31+00:00",
+  "short": false
+ },
+ {
+  "id": "7W88Qxj-AzQ",
+  "title": "214 - تفسير الآية (77) من سورة آل عمران - تأملات في كتاب الله - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-03T09:00:30+00:00",
+  "short": false
+ },
+ {
+  "id": "LO-fEoPmjUw",
+  "title": "معالم الإصلاح الاقتصادي",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-03T07:54:46+00:00",
+  "short": true
+ },
+ {
+  "id": "1dPLDwF5ydA",
+  "title": "“Who Am I To Judge?” Has A Limit | Signs of the Hour Ep. 24 | Dr. Omar Suleiman",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-03T04:02:00+00:00",
+  "short": false
+ },
+ {
+  "id": "SxtpUNWoufo",
+  "title": "Your Body Is Begging for Creatine",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-11-02T23:00:21+00:00",
+  "short": true
+ },
+ {
+  "id": "AqxVprN6GpM",
+  "title": "من قوت القلوب والأرواح أن تكون عاقلًا - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-02T21:00:04+00:00",
+  "short": true
+ },
+ {
+  "id": "npgakinJOdg",
+  "title": "What If Islamophobia Is an Opportunity? | Imam Tom Facchine",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-02T19:12:21+00:00",
+  "short": true
+ },
+ {
+  "id": "if7MUQaHVVU",
+  "title": "الدعوة لطعام يعده أهل الميت بمناسبة التعزية ",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-02T19:07:53+00:00",
+  "short": false
+ },
+ {
+  "id": "KqUTbog_Oh4",
+  "title": "مبرمج سمع الفكرة في بودكاست فبنى التطبيق وأهداه له | بودكاست بترولي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-02T19:00:12+00:00",
+  "short": true
+ },
+ {
+  "id": "wGTxpjimRGI",
+  "title": "قواتل التربية! - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-02T19:00:00+00:00",
+  "short": false
+ },
+ {
+  "id": "Q5UofFk6hFk",
+  "title": "احذر.. 7 أخطاء يفعلها الكثير أثناء الصلاة قد تدمر ثواب الصلاة وتبطلها..!",
+  "channel": "عبد الدائم الكحيل",
+  "date": "2026-11-02T18:52:27+00:00",
+  "short": false
+ },
+ {
   "id": "mbC0ZBWDT0M",
   "title": "Misconceptions about Nervous System Dysregulation",
   "channel": "Therapy in a Nutshell",
@@ -161,20 +252,6 @@
   "short": false
  },
  {
-  "id": "TYuZdikDzQs",
-  "title": "أراد أن يكون طيّارًا… فاختاره شيخه للقرآن | د. عبدالرحمن الشهري",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-02T00:56:17+00:00",
-  "short": true
- },
- {
-  "id": "E91dttXzTzg",
-  "title": "جاء يفاوض على الأسرى… فأسرته آية | د. عبدالرحمن الشهري",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-02T00:53:27+00:00",
-  "short": true
- },
- {
   "id": "jWXMsG3Fdpg",
   "title": "The 7 Healthiest Foods You Need in Your Diet",
   "channel": "Dr. Eric Berg DC",
@@ -259,13 +336,6 @@
   "short": true
  },
  {
-  "id": "uPD6sRCrEag",
-  "title": "تقاسم أرض الشركة",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-01T13:45:35+00:00",
-  "short": false
- },
- {
   "id": "G5_GqOOTeIw",
   "title": "Longevity Secrets to Help You Live 100 Years",
   "channel": "Dr. Eric Berg DC",
@@ -277,27 +347,6 @@
   "title": "ثمانية أسئلة مع كاتب روايات: أسامة المسلم",
   "channel": "إذاعة ثمانية",
   "date": "2026-11-01T12:30:01+00:00",
-  "short": false
- },
- {
-  "id": "yLalgHqSOC0",
-  "title": "حين يضل المزكي",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-01T12:15:07+00:00",
-  "short": false
- },
- {
-  "id": "wxUnLKwueVg",
-  "title": "ابعد عن الفتنة قدر الاستطاعة - قصص الصحابة - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-01T11:00:10+00:00",
-  "short": false
- },
- {
-  "id": "I5VVpUfcwl8",
-  "title": "{ فلما ذهبوا به وأجمعوا أن يجعلوه في غيابات الجب } |  فضيلة الشيخ محمد الحسن الددو",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-01T10:33:02+00:00",
   "short": false
  },
  {
@@ -320,13 +369,6 @@
   "channel": "عبد الدائم الكحيل",
   "date": "2026-10-31T19:22:01+00:00",
   "short": false
- },
- {
-  "id": "42TTzaHYLWE",
-  "title": "مش عايز أشحت حقوقي! - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-10-31T19:00:26+00:00",
-  "short": true
  },
  {
   "id": "LhdgDydibwA",
@@ -379,7 +421,7 @@
  },
  {
   "id": "TYrxGEhR4Yk",
-  "title": "When to Ignore A Doubt | Anchored Ep. 7 | Sh. Mohammad Elshinawy",
+  "title": "When To Ignore A Doubt | Anchored Ep. 7 | Sh. Mohammad Elshinawy",
   "channel": "Yaqeen Institute",
   "date": "2026-10-31T14:00:11+00:00",
   "short": false
@@ -406,13 +448,6 @@
   "short": false
  },
  {
-  "id": "fHpT5YtccKo",
-  "title": "ثباتك قد يكون سببًا في ثبات غيرك - قصص الصحابة - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-10-31T11:00:07+00:00",
-  "short": false
- },
- {
   "id": "1VIuW3TQkp0",
   "title": "الحرب في الخليج.. والخاسر نفط أميركا!",
   "channel": "اقتصاد الكوكب",
@@ -424,13 +459,6 @@
   "title": "What Would You Tell A Racist | Ebro Ahmed and Dr. Omar Suleiman",
   "channel": "Yaqeen Institute",
   "date": "2026-10-31T03:23:56+00:00",
-  "short": true
- },
- {
-  "id": "pTakp5ECdKU",
-  "title": "سبب من أسباب الفتنة ذُكر في القرن الكريم..",
-  "channel": "Mustafa Hosny",
-  "date": "2026-10-30T21:00:21+00:00",
   "short": true
  },
  {
@@ -504,13 +532,6 @@
   "short": true
  },
  {
-  "id": "6ye5EIPFgl8",
-  "title": "The Next 10 Years Start Now",
-  "channel": "Yaqeen Institute",
-  "date": "2026-10-30T15:00:35+00:00",
-  "short": true
- },
- {
   "id": "5WSL3SnQ4uI",
   "title": "ألف باء الزواج 76 | أسئلة الخِطبة 09",
   "channel": "فقه النفس / مكاني",
@@ -523,13 +544,6 @@
   "channel": "Mohamed Shabka",
   "date": "2026-10-30T12:06:48+00:00",
   "short": true
- },
- {
-  "id": "tvQltSYZCno",
-  "title": "Why Cancer Doesn’t Die (& How to ACTUALLY Target It)",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-10-30T12:00:10+00:00",
-  "short": false
  },
  {
   "id": "pa9ZI9Sz6LY",
@@ -557,13 +571,6 @@
   "title": "رغم الصواريخ.. الصين والهند تفضّلان نفط الخليج!",
   "channel": "اقتصاد الكوكب",
   "date": "2026-10-30T10:00:34+00:00",
-  "short": true
- },
- {
-  "id": "xWRPVuVJk_g",
-  "title": "What Would You Regret On Your Last Day? | Dr. Omar Suleiman",
-  "channel": "Yaqeen Institute",
-  "date": "2026-10-29T23:00:31+00:00",
   "short": true
  },
  {
@@ -845,13 +852,6 @@
   "channel": "السبيل",
   "date": "2026-10-25T19:47:46+00:00",
   "short": true
- },
- {
-  "id": "QEM2y4fPEQg",
-  "title": "طعام نبوي عجيب.. ماذا يحدث لجسمك بعد 8 أسابيع من تناوله؟",
-  "channel": "عبد الدائم الكحيل",
-  "date": "2026-10-25T19:30:31+00:00",
-  "short": false
  },
  {
   "id": "uZplNaRGKlE",
