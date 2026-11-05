@@ -1,5 +1,89 @@
 [
  {
+  "id": "quu_JXBplD4",
+  "title": "5. November 2026",
+  "channel": "Soulafa Selim",
+  "date": "2026-11-05T18:47:11+00:00",
+  "short": true
+ },
+ {
+  "id": "huxO1N4vdRM",
+  "title": "جاء إلى المسجد حافيًا… ولم يشعر، فما السبب؟ | د. سعد العريفي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-05T18:30:06+00:00",
+  "short": true
+ },
+ {
+  "id": "I9jz_RzS9J8",
+  "title": "مراجعة كتاب حالة الآلة - الإنسان | ظل كتاب #169",
+  "channel": "سامي البطاطي",
+  "date": "2026-11-05T18:00:06+00:00",
+  "short": false
+ },
+ {
+  "id": "ahkmzZJyujE",
+  "title": "كيكه صحيه بدون سكر ❌",
+  "channel": "وصفات Eman abdullah",
+  "date": "2026-11-05T17:37:55+00:00",
+  "short": true
+ },
+ {
+  "id": "FQjQ9YLaYks",
+  "title": "بدر الحرقان: تجارب استثنائية في عالم العطور | بودكاست بترولي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-05T17:03:25+00:00",
+  "short": false
+ },
+ {
+  "id": "vX4YjkxqqNs",
+  "title": "هجم البرد القاسي🥶لازم مد السجادة وشغل المدافئ 🔥تنظيف عميق شتوي شفيت قلبي وصلت ريحة النظافة للجيران",
+  "channel": "جيلان شانيل",
+  "date": "2026-11-05T17:00:25+00:00",
+  "short": false
+ },
+ {
+  "id": "Kfbsook6EZo",
+  "title": "قريش قالت: والغوا فيه… واليوم اللغو في جوالك | د. عبدالرحمن الشهري",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-05T16:30:36+00:00",
+  "short": true
+ },
+ {
+  "id": "DA9rZuwwtPo",
+  "title": "أجواء الخريف #shortvideo #اكسبلور #النظافه #بستنة #مطبخ",
+  "channel": "جيلان شانيل",
+  "date": "2026-11-05T15:05:24+00:00",
+  "short": true
+ },
+ {
+  "id": "zZDh7aH9cec",
+  "title": "The Woman Who Asked the Prophet ﷺ for a Divorce | Real Talk | Dr. Tesneem Alkiek",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-05T15:00:08+00:00",
+  "short": false
+ },
+ {
+  "id": "OdBz-_XLm68",
+  "title": "اتخذ قرارًا وطلع غلط… فقال له: أنت صح | د. سعد العريفي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-05T14:30:03+00:00",
+  "short": true
+ },
+ {
+  "id": "FWCYVYj5hhA",
+  "title": "كيف يعرف عمر الشخص من يده؟ يقول «بدر الشيب» أنها سرّ المهنة — 😁",
+  "channel": "إذاعة ثمانية",
+  "date": "2026-11-05T13:00:39+00:00",
+  "short": true
+ },
+ {
+  "id": "l57nG0hZJtw",
+  "title": "The Fastest Way to Reverse Fatty Liver",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-11-05T13:00:14+00:00",
+  "short": false
+ },
+ {
   "id": "1eqpfkSvKro",
   "title": "عمل المرأة",
   "channel": "محمد الحسن الددو",
@@ -105,24 +189,10 @@
   "short": false
  },
  {
-  "id": "_Ccy-NoRSHw",
-  "title": "سدّ أذنيه كي لا يسمع القرآن… ثم نزع القطن بنفسه | د. عبدالرحمن الشهري",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-04T21:00:19+00:00",
-  "short": true
- },
- {
   "id": "vifv9AE5Hxs",
   "title": "لماذا سميت أيام التشريق بهذا الاسم؟ - مصطفى حسني",
   "channel": "Mustafa Hosny",
   "date": "2026-11-04T21:00:15+00:00",
-  "short": true
- },
- {
-  "id": "JUwLdJY14Jc",
-  "title": "«ومن قال لك إنه بيصحى؟» | التواصل الإنساني مع المريض | د. سعد العريفي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-04T20:20:32+00:00",
   "short": true
  },
  {
@@ -140,13 +210,6 @@
   "short": false
  },
  {
-  "id": "uqbsjG8FkGo",
-  "title": "أعطاه مالًا بنية شفاء زوجته… ثم رنّ الجوال | د. سعد العريفي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-04T19:37:22+00:00",
-  "short": true
- },
- {
   "id": "819fRdeGwz8",
   "title": "Is Anyone Beyond Forgiveness?",
   "channel": "Yaqeen Institute",
@@ -158,13 +221,6 @@
   "title": "الله قادر على شفائك من الأوجاع ومن الأذى - مصطفى حسني",
   "channel": "Mustafa Hosny",
   "date": "2026-11-04T19:00:09+00:00",
-  "short": true
- },
- {
-  "id": "zyb6dgLV_n8",
-  "title": "تصحيح التلاوة آليًا لا يلغي دور المعلم | كل الشموع لا تغني عن الشمس | بودكاست بترولي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-04T19:00:07+00:00",
   "short": true
  },
  {
@@ -333,13 +389,6 @@
   "title": "إذا كان لك حاجة عند الله.. عمل واحد يحقق إجابة الدعاء بشكل مؤكد",
   "channel": "عبد الدائم الكحيل",
   "date": "2026-11-03T20:39:54+00:00",
-  "short": false
- },
- {
-  "id": "zZDh7aH9cec",
-  "title": "The Woman Who Asked the Prophet ﷺ for a Divorce | Real Talk | Dr. Tesneem Alkiek",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-03T19:49:35+00:00",
   "short": false
  },
  {
@@ -518,13 +567,6 @@
   "short": false
  },
  {
-  "id": "jWXMsG3Fdpg",
-  "title": "The 7 Healthiest Foods You Need in Your Diet",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-11-01T23:00:38+00:00",
-  "short": true
- },
- {
   "id": "PERmDXcn3Kc",
   "title": "كنز علاجي مذهل.. لن تتخيل ماذا يفعل هذا الصيام في جسدك!",
   "channel": "عبد الدائم الكحيل",
@@ -602,13 +644,6 @@
   "short": true
  },
  {
-  "id": "SbZX5aR5pbM",
-  "title": "روتين الجمعة بدل الغداء الواحد عملت اتنين🤷🏽‍♀️تنظيف وترتيب وتنظيم ليومين العطلة 👌🏽",
-  "channel": "جيلان شانيل",
-  "date": "2026-10-31T17:01:22+00:00",
-  "short": false
- },
- {
   "id": "CSDdfZshlsg",
   "title": "حابين تعرفوا شو بعمل بكل ثانيه من يومي ؟!  ",
   "channel": "رند الديسي",
@@ -679,13 +714,6 @@
   "short": false
  },
  {
-  "id": "qIwNEDmaGBQ",
-  "title": "بسبب عطلة السبت الرسمية تسوق الأسبوع الجمعة من محلات الآسيوي،الاكاوفلاند،الليدل،عروضات بالأسعار👌🏽🫨",
-  "channel": "جيلان شانيل",
-  "date": "2026-10-30T17:00:18+00:00",
-  "short": false
- },
- {
   "id": "jOsLIUZmkuk",
   "title": "Last chance to get these recipes! 🚨",
   "channel": "Pick Up Limes",
@@ -719,13 +747,6 @@
   "channel": "غريب الشيخ",
   "date": "2026-10-30T11:18:20+00:00",
   "short": false
- },
- {
-  "id": "YuOW2F7gcPw",
-  "title": "كيك صحي لل #رجيم وصفات ايمان عبدالله",
-  "channel": "وصفات Eman abdullah",
-  "date": "2026-10-30T10:35:35+00:00",
-  "short": true
  },
  {
   "id": "y87pySJ9CgI",
@@ -816,13 +837,6 @@
   "title": "هل استطاع الفلم الجديد منافسة «The Social Network»؟ 🎬🔥",
   "channel": "إذاعة ثمانية",
   "date": "2026-10-28T13:00:19+00:00",
-  "short": true
- },
- {
-  "id": "uLl7y2xYwEg",
-  "title": "يتحدث عبدالرحمن الراشد عن شخصية عبدالملك الحوثي، وطبيعة مشروعه في اليمن. في #بودكاست_سقراط",
-  "channel": "إذاعة ثمانية",
-  "date": "2026-10-28T09:00:11+00:00",
   "short": true
  },
  {
@@ -1222,13 +1236,6 @@
   "title": "اوعى تتكسف تشارك المعلومة!!!",
   "channel": "غريب الشيخ",
   "date": "2026-10-07T03:24:59+00:00",
-  "short": true
- },
- {
-  "id": "jv8SFc5ar6k",
-  "title": "مين فاكر حاجة كان بيعملها مع اخواته ؟ 😍",
-  "channel": "Soulafa Selim",
-  "date": "2026-10-06T17:33:24+00:00",
   "short": true
  },
  {
@@ -1896,13 +1903,6 @@
   "title": "مراجعة كتاب التاريخ الثقافي للقباحة - غريتشن هندرسن | ظل كتاب #163",
   "channel": "سامي البطاطي",
   "date": "2022-09-29T19:00:10+00:00",
-  "short": false
- },
- {
-  "id": "YoONxI3dpNM",
-  "title": "📚 جولة في مكتبات مصر ومعرض القاهرة للكتاب",
-  "channel": "سامي البطاطي",
-  "date": "2022-04-21T21:35:18+00:00",
   "short": false
  },
  {
