@@ -1,5 +1,117 @@
 [
  {
+  "id": "kvARmxWqv5Y",
+  "title": "فضل أمة محمد صلى الله عليه وسلم",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-08T12:31:51+00:00",
+  "short": false
+ },
+ {
+  "id": "1QKEW782YAw",
+  "title": "أرقام مخيفة بفضل المشاهير… فأين أصحابها الآن؟ | بدر الحرقان",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-08T12:15:14+00:00",
+  "short": true
+ },
+ {
+  "id": "DiwVWzBFH5M",
+  "title": "شوربه حارقه للدهون #تنحيف وصفاتEmanabdullah #اكسبلور",
+  "channel": "وصفات Eman abdullah",
+  "date": "2026-11-08T11:26:37+00:00",
+  "short": true
+ },
+ {
+  "id": "G3aAf6DhydE",
+  "title": "الخصام في بيت النبي ﷺ - قصص الصحابة - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-08T11:00:16+00:00",
+  "short": false
+ },
+ {
+  "id": "25VDPiih1Pw",
+  "title": "معادلة التغير في دقائق، مع عبدالله العلاوي!",
+  "channel": "أخضر",
+  "date": "2026-11-08T10:38:35+00:00",
+  "short": true
+ },
+ {
+  "id": "JMymrsdu31w",
+  "title": "شوربه ال #تنحيف ساعدتني اخسر 20كيلو من وزني في وقت قصير ‼️شوربه حارقه للدهون  وصفاتEmanabdullah ",
+  "channel": "وصفات Eman abdullah",
+  "date": "2026-11-08T10:38:13+00:00",
+  "short": false
+ },
+ {
+  "id": "dlPASeffyLc",
+  "title": "طلب إعداد وليمة لشفاء مريض… والمريض ما زال يتألم | محمد بن سعود الحمد",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-08T10:00:31+00:00",
+  "short": true
+ },
+ {
+  "id": "U4dQwNvpv5c",
+  "title": "4 أخطاء تفسد فوائد القرنفل في القهوة",
+  "channel": "دكتور بيرج بالعربي",
+  "date": "2026-11-08T09:21:51+00:00",
+  "short": false
+ },
+ {
+  "id": "lv5f6d6Sag0",
+  "title": "وصية لقمان لابنه",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-08T09:14:47+00:00",
+  "short": false
+ },
+ {
+  "id": "AY5OrMXAGpI",
+  "title": "لماذا تركت أميركا جزيرة خرج سليمة؟",
+  "channel": "اقتصاد الكوكب",
+  "date": "2026-11-08T08:00:03+00:00",
+  "short": true
+ },
+ {
+  "id": "-ra1zzciduE",
+  "title": "راتبك لا تحدده الخبرة… بل قيمتك في السوق | عبدالإله برناوي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-08T07:54:33+00:00",
+  "short": true
+ },
+ {
+  "id": "5z4Qz8wnZoE",
+  "title": "فائدة  \" إذا \" للشرط المقطوع به",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-08T06:56:11+00:00",
+  "short": false
+ },
+ {
+  "id": "EplPRsyCc54",
+  "title": "ربنا يحب يشوفك قوي - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-07T21:00:19+00:00",
+  "short": true
+ },
+ {
+  "id": "_pYMj3SERCE",
+  "title": "احذر أن تغادر منزلك قبل أن تقول هذا الدعاء..",
+  "channel": "عبد الدائم الكحيل",
+  "date": "2026-11-07T20:30:59+00:00",
+  "short": false
+ },
+ {
+  "id": "wUd5SZdkBv8",
+  "title": "ابنه أصيب بمرض… فروى له قصة رفيقه | د. سعد العريفي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-07T20:00:38+00:00",
+  "short": true
+ },
+ {
+  "id": "R_oIL9mMNtE",
+  "title": "إزاي أتعلم التوكل والتسليم - لايف السبت - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-07T19:50:29+00:00",
+  "short": false
+ },
+ {
   "id": "IEEA_LmugWc",
   "title": "⁨ ⁨ ليش جسمكم يفرز هرمون الاستشفاء في الثلث الاخير من الليل ؟ #صحة_المرأة #اكسبلور #دايت #رياضة",
   "channel": "رند الديسي",
@@ -43,14 +155,14 @@
  },
  {
   "id": "AnI8Iq1Hulo",
-  "title": "حصاد أول شهر من تحدي 12 أسبوع - ما توقعت النتائج أبداً + تعديلات للفترة القادمة",
+  "title": "تجربة شهر كامل من تحدي الـ 12 أسبوع (النتائج فاجأتني)",
   "channel": "دانه علان",
   "date": "2026-11-07T16:27:47+00:00",
   "short": false
  },
  {
   "id": "SefaX4Al444",
-  "title": "خطر الذكاء الاصطناعي والروبوتات حتى بدون وعي | البروفيسور وليد مجدي",
+  "title": "لماذا الخوف من الذكاء الاصطناعي حتى لو لم يصبح واعيًا؟ | حوار مع د. وليد مجدي",
   "channel": "السبيل",
   "date": "2026-11-07T16:09:42+00:00",
   "short": false
@@ -71,7 +183,7 @@
  },
  {
   "id": "UNbSJQ7ptyk",
-  "title": "Can The “Great Lock-In” Fix Your Deen? | Anchored Ep. 8 | Sh. Mohammad Elshinawy",
+  "title": "How To Live A Distraction-Free Life | Anchored Ep. 8 | Sh. Mohammad Elshinawy",
   "channel": "Yaqeen Institute",
   "date": "2026-11-07T15:00:07+00:00",
   "short": false
@@ -112,13 +224,6 @@
   "short": false
  },
  {
-  "id": "NYPp3_41j-Q",
-  "title": "امتحانٌ شفوي لنصف ساعة… انتهى بوعدٍ من أستاذه | أ.د. عمرو بيومي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-07T12:15:34+00:00",
-  "short": true
- },
- {
   "id": "1zn8YetuqXM",
   "title": "لماذا سرّبت واشنطن خطة ضرب إيران قبل أسبوع؟",
   "channel": "اقتصاد الكوكب",
@@ -133,25 +238,11 @@
   "short": false
  },
  {
-  "id": "Mz-MSENWJkA",
-  "title": "كيف يجمعك المكان بشخص ما تعرفه؟",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-07T10:38:10+00:00",
-  "short": true
- },
- {
   "id": "S8PFcx5N9FY",
   "title": "ولا تمش في الارض مرحا",
   "channel": "محمد الحسن الددو",
   "date": "2026-11-07T10:21:49+00:00",
   "short": false
- },
- {
-  "id": "k0pkycemiS8",
-  "title": "مستشرق يناقش التفسير بعمق… فهل هذا الباحث مسلم؟ | د. عبدالرحمن الشهري",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-07T10:00:04+00:00",
-  "short": true
  },
  {
   "id": "zjm9TfumlxY",
@@ -200,20 +291,6 @@
   "title": "Why The Early Muslims Loved Winter | LATEST Khutbah by Sh. Mohammad Elshinawy",
   "channel": "Yaqeen Institute",
   "date": "2026-11-06T20:00:07+00:00",
-  "short": false
- },
- {
-  "id": "DX7jgDvoYlA",
-  "title": "عطرٌ يُخبّأ عامًا كاملًا… من الهند إلى القطب الشمالي | بدر الحرقان",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-06T20:00:01+00:00",
-  "short": true
- },
- {
-  "id": "k9stgqAwB9Q",
-  "title": "الإنسان صنف مستقل بين صنفين",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-06T19:41:45+00:00",
   "short": false
  },
  {
@@ -273,13 +350,6 @@
   "short": false
  },
  {
-  "id": "jeK1paZofjY",
-  "title": "أقسام  العهد",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-06T16:11:07+00:00",
-  "short": false
- },
- {
   "id": "fgxhjBfO5es",
   "title": "The Work Behind Every Answer",
   "channel": "Yaqeen Institute",
@@ -320,13 +390,6 @@
   "channel": "إذاعة ثمانية",
   "date": "2026-11-06T13:00:33+00:00",
   "short": true
- },
- {
-  "id": "UhvvCLWC1iA",
-  "title": "هجرة موسى إلى مدين",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-06T12:39:23+00:00",
-  "short": false
  },
  {
   "id": "atVHymfrkEc",
@@ -483,13 +546,6 @@
   "short": true
  },
  {
-  "id": "hEQjoLArcqs",
-  "title": "٣سناكات لل #دايت أقل من ١٠٠ سعر حراري وصفات Emanabdullah",
-  "channel": "وصفات Eman abdullah",
-  "date": "2026-11-05T09:08:11+00:00",
-  "short": true
- },
- {
   "id": "Bai77XAAr6g",
   "title": "7 Nighttime Habits That Age You Faster",
   "channel": "Dr. Eric Berg DC",
@@ -504,13 +560,6 @@
   "short": false
  },
  {
-  "id": "vifv9AE5Hxs",
-  "title": "لماذا سميت أيام التشريق بهذا الاسم؟ - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-04T21:00:15+00:00",
-  "short": true
- },
- {
   "id": "K1qS3VJzW7c",
   "title": "الرد على سعد الدين العثماني | إنكار السحر والأمراض الروحية واتهام الرقاة بالدجل!",
   "channel": "السبيل",
@@ -518,25 +567,11 @@
   "short": false
  },
  {
-  "id": "vUq9hxPtbiA",
-  "title": "الله قادر على شفائك من الأوجاع ومن الأذى - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-04T19:00:09+00:00",
-  "short": true
- },
- {
   "id": "HJtxNiG-jqk",
   "title": "هوت شورت",
   "channel": "Soulafa Selim",
   "date": "2026-11-04T18:21:34+00:00",
   "short": true
- },
- {
-  "id": "QsEMZtAri1E",
-  "title": "الدرس 95 - التكبير في أيام عيد الأضحى - شرح كتاب الفقه الواضح - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-04T18:00:07+00:00",
-  "short": false
  },
  {
   "id": "QIXz1l3xYNo",
@@ -558,13 +593,6 @@
   "channel": "جيلان شانيل",
   "date": "2026-11-04T14:52:58+00:00",
   "short": true
- },
- {
-  "id": "xp77wMDjCNM",
-  "title": "لجوع الشتاء عملتلك ٣ #سناكات تشبعك في ال#دايت خاليه من البيض والحليب والدهون ❌️ وصفاتEmanabdullah",
-  "channel": "وصفات Eman abdullah",
-  "date": "2026-11-04T14:16:21+00:00",
-  "short": false
  },
  {
   "id": "2A6EAVkvltc",
@@ -760,20 +788,6 @@
   "title": "ثمانية أسئلة مع كاتب روايات: أسامة المسلم",
   "channel": "إذاعة ثمانية",
   "date": "2026-11-01T12:30:01+00:00",
-  "short": false
- },
- {
-  "id": "cH_T1VGn3Vk",
-  "title": "السعودية تتجاوز هرمز في 8 أسابيع.. بخط غاز!",
-  "channel": "اقتصاد الكوكب",
-  "date": "2026-11-01T10:00:08+00:00",
-  "short": true
- },
- {
-  "id": "zixQxTYDjg0",
-  "title": "أبشر بفرج قريب.. 3 علامات للأمل والفرح والخير الكثير",
-  "channel": "عبد الدائم الكحيل",
-  "date": "2026-10-31T19:22:01+00:00",
   "short": false
  },
  {
@@ -1050,13 +1064,6 @@
   "short": false
  },
  {
-  "id": "V6KwX7ZSOps",
-  "title": "ماذا يحدث لجسمك بعد 30 يوماً من الكرياتين؟ نتائج مذهلة بعد سن الخمسين",
-  "channel": "دكتور بيرج بالعربي",
-  "date": "2026-10-23T16:15:36+00:00",
-  "short": false
- },
- {
   "id": "huPMNLlXFNg",
   "title": "مناظرة القرن ( تبدأ بمحاولة قتـ ل ) يتحدى هيثم طلعت بحبة غلة أمام الجميع| الإسلام والإلحاد وجها لوجه",
   "channel": "د. هيثم طلعت",
@@ -1152,13 +1159,6 @@
   "title": "المدينة غيرتني وبفكر أرجع للغيط وسر استمراري ١٤ سنة؟",
   "channel": "دروس أونلاين",
   "date": "2026-10-17T15:19:09+00:00",
-  "short": false
- },
- {
-  "id": "knFVhkL1EgI",
-  "title": "5 خطوات لصيام الدوبامين ⛔ - كتاب: أطفال الدوبامين #أخضر",
-  "channel": "أخضر",
-  "date": "2026-10-16T18:26:13+00:00",
   "short": false
  },
  {
