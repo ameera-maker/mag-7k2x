@@ -1,9 +1,100 @@
 [
  {
+  "id": "0t0UiPQnskk",
+  "title": "التقنية العميقة: كيف تحول الشركات الأبحاث إلى ابتكارات | بودكاست بترولي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-11T12:01:14+00:00",
+  "short": false
+ },
+ {
+  "id": "TWEA0zdb3bk",
+  "title": "استخدام الجوال أثناء العواصف",
+  "channel": "إذاعة ثمانية",
+  "date": "2026-11-11T11:13:53+00:00",
+  "short": true
+ },
+ {
+  "id": "GtvOZleZyUU",
+  "title": "من يبادر؟ - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-11T11:00:26+00:00",
+  "short": true
+ },
+ {
+  "id": "XErjm5Xf3nI",
+  "title": "خلي الملل صديقك!",
+  "channel": "أخضر",
+  "date": "2026-11-11T10:00:39+00:00",
+  "short": true
+ },
+ {
+  "id": "5kI8ftVIeas",
+  "title": "ما هي العزى التي كان المشركون يعبدونها في الجاهلية من دون الله ؟",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-11T10:00:24+00:00",
+  "short": true
+ },
+ {
+  "id": "h-bRbvM4hVc",
+  "title": "لو بتستخدم ال ai كتير مع pdf استخدم الطريقة دي",
+  "channel": "غريب الشيخ",
+  "date": "2026-11-11T08:55:56+00:00",
+  "short": true
+ },
+ {
+  "id": "APKkLbyI2OU",
+  "title": "أم المؤمنين عائشة تسأل رسول الله صلى الله عليه وسلم",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-11T07:00:18+00:00",
+  "short": true
+ },
+ {
   "id": "YhBaPthfxCg",
   "title": "The Amazing Benefits of Iodine",
   "channel": "Dr. Eric Berg DC",
   "date": "2026-11-10T23:00:22+00:00",
+  "short": true
+ },
+ {
+  "id": "QkCKxmGp1fs",
+  "title": "Your Winter Tahajjud Routine | Dr. Tamara Gray",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-10T22:34:00+00:00",
+  "short": true
+ },
+ {
+  "id": "HAqyBXhT49w",
+  "title": "أنت لست معصوم أنت مستور! - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-10T21:00:26+00:00",
+  "short": true
+ },
+ {
+  "id": "boledAQEWRg",
+  "title": "استيقظ قبل الفجر وقل هذا الذكر.. تضمن استجابة الدعاء بإذن الله",
+  "channel": "عبد الدائم الكحيل",
+  "date": "2026-11-10T19:19:03+00:00",
+  "short": false
+ },
+ {
+  "id": "bsL_052Pso8",
+  "title": "كيف تتخطى الانتكاسة؟ 😳 - البوصلة مع عبدالله العلاوي #أخضر",
+  "channel": "أخضر",
+  "date": "2026-11-10T19:00:35+00:00",
+  "short": false
+ },
+ {
+  "id": "WcgerhXuU_k",
+  "title": "زوجي توفي من سنة ومن يوم ما توفي بوهب جميع أعمالي الصالحة له.. هل باخد أجر هذه الأعمال؟ مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-10T19:00:17+00:00",
+  "short": true
+ },
+ {
+  "id": "dTzHtDjLuhg",
+  "title": "96% منها مشوّهة… والنتيجة طبيعية! | د. البراء مجددي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-10T19:00:11+00:00",
   "short": true
  },
  {
@@ -57,7 +148,7 @@
  },
  {
   "id": "Rz5tnz67KEo",
-  "title": "حلول التعفن الدماغي",
+  "title": "تخلص من التعفن الدماغي",
   "channel": "علي محمد علي",
   "date": "2026-11-10T15:50:16+00:00",
   "short": false
@@ -259,13 +350,6 @@
   "short": true
  },
  {
-  "id": "Nfxoj3L9G64",
-  "title": "تأخر الإنجاب: أسباب العقم وفرص العلاج بالحقن المجهري | بودكاست بترولي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-09T13:22:42+00:00",
-  "short": false
- },
- {
   "id": "KU-e2GIpkhI",
   "title": "How to Fall Back Asleep FAST",
   "channel": "Dr. Eric Berg DC",
@@ -280,24 +364,10 @@
   "short": true
  },
  {
-  "id": "Cj4MNyniaoE",
-  "title": "هل نحن وحدنا في الكون؟ الجوابان كلاهما مخيف | بكري عبدالله",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-09T12:15:51+00:00",
-  "short": true
- },
- {
   "id": "jaIZLkbaLms",
   "title": "الدرس الرابع و الخمسون من تعليق الشيخ الددو على كتاب معالم السنة النبوية",
   "channel": "محمد الحسن الددو",
   "date": "2026-11-09T11:24:46+00:00",
-  "short": false
- },
- {
-  "id": "Q5560Xw9_MI",
-  "title": "كفاك أعذار - قصص الصحابة - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-09T11:00:12+00:00",
   "short": false
  },
  {
@@ -357,13 +427,6 @@
   "short": true
  },
  {
-  "id": "1mbDMs35_DE",
-  "title": "المجلس 96 - سلسلة الطريق - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-08T19:01:42+00:00",
-  "short": false
- },
- {
   "id": "NwfRQlyhLxU",
   "title": "معنى قوله تعالى في بني إسرائيل : { وأني فضلتكم على العالمين }",
   "channel": "محمد الحسن الددو",
@@ -399,25 +462,11 @@
   "short": false
  },
  {
-  "id": "kvARmxWqv5Y",
-  "title": "فضل أمة محمد صلى الله عليه وسلم",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-08T12:31:51+00:00",
-  "short": false
- },
- {
   "id": "DiwVWzBFH5M",
   "title": "شوربه حارقه للدهون #تنحيف وصفاتEmanabdullah #اكسبلور",
   "channel": "وصفات Eman abdullah",
   "date": "2026-11-08T11:26:37+00:00",
   "short": true
- },
- {
-  "id": "G3aAf6DhydE",
-  "title": "الخصام في بيت النبي ﷺ - قصص الصحابة - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-08T11:00:16+00:00",
-  "short": false
  },
  {
   "id": "25VDPiih1Pw",
@@ -438,13 +487,6 @@
   "title": "4 أخطاء تفسد فوائد القرنفل في القهوة",
   "channel": "دكتور بيرج بالعربي",
   "date": "2026-11-08T09:21:51+00:00",
-  "short": false
- },
- {
-  "id": "lv5f6d6Sag0",
-  "title": "وصية لقمان لابنه",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-08T09:14:47+00:00",
   "short": false
  },
  {
@@ -536,13 +578,6 @@
   "title": "لماذا سرّبت واشنطن خطة ضرب إيران قبل أسبوع؟",
   "channel": "اقتصاد الكوكب",
   "date": "2026-11-07T11:20:05+00:00",
-  "short": true
- },
- {
-  "id": "97Dd5E60j_g",
-  "title": "He Gave His Eye for the Prophet ﷺ | Dr. Omar Suleiman",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-07T00:00:37+00:00",
   "short": true
  },
  {
@@ -812,13 +847,6 @@
   "short": true
  },
  {
-  "id": "Q5UofFk6hFk",
-  "title": "احذر.. 7 أخطاء يفعلها الكثير أثناء الصلاة قد تدمر ثواب الصلاة وتبطلها..!",
-  "channel": "عبد الدائم الكحيل",
-  "date": "2026-11-02T18:52:27+00:00",
-  "short": false
- },
- {
   "id": "mbC0ZBWDT0M",
   "title": "Misconceptions about Nervous System Dysregulation",
   "channel": "Therapy in a Nutshell",
@@ -852,13 +880,6 @@
   "channel": "Duha Home",
   "date": "2026-11-02T15:49:19+00:00",
   "short": false
- },
- {
-  "id": "9d_t-CE4Rxk",
-  "title": "تحكي «خديجة» عن مجرم يقتل 52 مصاب في المستشفى أمام عينها! — 🇸🇩",
-  "channel": "إذاعة ثمانية",
-  "date": "2026-11-02T15:33:50+00:00",
-  "short": true
  },
  {
   "id": "Mx3Ff74V63k",
@@ -1001,13 +1022,6 @@
   "short": true
  },
  {
-  "id": "UvPYU1ZJM3M",
-  "title": "أسوأ 3 عادات 👎 - البوصلة مع عبدالله العلاوي - #أخضر",
-  "channel": "أخضر",
-  "date": "2026-10-27T18:00:17+00:00",
-  "short": false
- },
- {
   "id": "n31z2xwkzOg",
   "title": "استراتيجية حل المشكلات - كتاب : طريقة ماكنزي",
   "channel": "جيل يقرأ",
@@ -1125,13 +1139,6 @@
   "channel": "كوتش سما",
   "date": "2026-10-23T20:29:12+00:00",
   "short": true
- },
- {
-  "id": "DXR6_tmmsjo",
-  "title": "ليه بتفشل في الدايت وتاكل أكتر؟ 😩 ملخص كتاب: (الدايت والأدوية والدوبامين) #أخضر",
-  "channel": "أخضر",
-  "date": "2026-10-23T18:15:26+00:00",
-  "short": false
  },
  {
   "id": "huPMNLlXFNg",
@@ -1265,13 +1272,6 @@
   "channel": "دانه علان",
   "date": "2026-10-10T16:10:02+00:00",
   "short": false
- },
- {
-  "id": "Z-zyVicVcGs",
-  "title": "إزاي البحث بيتوقع سؤالك بالسرعة دي؟",
-  "channel": "غريب الشيخ",
-  "date": "2026-10-09T14:42:40+00:00",
-  "short": true
  },
  {
   "id": "4IIaoKdsTf8",
