@@ -1,5 +1,75 @@
 [
  {
+  "id": "Pt6dot9L8_I",
+  "title": "How to 700x Your Good Deeds | Sh. Mohammad Elshinawy",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-12T00:00:12+00:00",
+  "short": true
+ },
+ {
+  "id": "ss9LYmwk5yo",
+  "title": "Healthy Spices You Should Use More Often",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-11-11T23:00:31+00:00",
+  "short": true
+ },
+ {
+  "id": "yE4YQLR4LCk",
+  "title": "Top 10 Shorts over the last 10 Years",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-11T22:21:44+00:00",
+  "short": true
+ },
+ {
+  "id": "pQ9ShRiQGDc",
+  "title": "ماذا يحدث إذا قلت هذا الذكر قبل أن تأوي إلى فراشك..؟",
+  "channel": "عبد الدائم الكحيل",
+  "date": "2026-11-11T21:15:27+00:00",
+  "short": false
+ },
+ {
+  "id": "2cjN-cs0BxI",
+  "title": "مرآة تتوقّع الشدّ العضلي قبل دخول الملعب | م. سلمان بت",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-11T20:47:19+00:00",
+  "short": true
+ },
+ {
+  "id": "GKAynmX7DG8",
+  "title": "مستودعه فرغ… قبل أن يبدأ الموسم | م. سلمان بت",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-11T20:44:11+00:00",
+  "short": true
+ },
+ {
+  "id": "btEXVPwHJ2A",
+  "title": "The Dr. Berg Show LIVE - November 13, 2026",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-11-11T20:25:28+00:00",
+  "short": false
+ },
+ {
+  "id": "SHL4b1JLGik",
+  "title": "العامل الأول في الخصوبة… عمر المرأة | د. البراء مجددي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-11T19:00:24+00:00",
+  "short": true
+ },
+ {
+  "id": "oEjRXmF6SuA",
+  "title": "والدي متوفى من ١٨ سنة وكل لما أكبر أتعب من فراقه.. قولي على عادة أعملها علشان قلبي يبرد - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-11T19:00:17+00:00",
+  "short": true
+ },
+ {
+  "id": "zGWiVd7UkVo",
+  "title": "أطفال غريبة اوي 😎",
+  "channel": "Soulafa Selim",
+  "date": "2026-11-11T18:54:50+00:00",
+  "short": true
+ },
+ {
   "id": "vXCOP9jL3fg",
   "title": "الدرس 96 - باب صلاة الكسوف والخسوف - شرح كتاب الفقه الواضح - مصطفى حسني",
   "channel": "Mustafa Hosny",
@@ -204,7 +274,7 @@
  },
  {
   "id": "1yYTXmVWTl8",
-  "title": "لص روسي.. تسبّب بالصدفة في صنع أحد أخطر أسلحة أميركا!  قصة بالانتير!",
+  "title": "إمبراطورية «بالانتير».. الشركة الوحيدة التي ترى ما تعجز الدولة عن رؤيته!",
   "channel": "اقتصاد الكوكب",
   "date": "2026-11-10T17:00:03+00:00",
   "short": false
@@ -329,32 +399,11 @@
   "short": true
  },
  {
-  "id": "5a6qjiM_H7I",
-  "title": "خمس سنوات من العلاج… ولم يُفحص الزوج | د. البراء مجددي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-09T20:30:26+00:00",
-  "short": true
- },
- {
   "id": "JMsxXg41I2o",
   "title": "عبادة الله وعبادة الشيطان: الذكر واليوغا والرقص الشرقي في مكان واحد!",
   "channel": "السبيل",
   "date": "2026-11-09T20:23:55+00:00",
   "short": false
- },
- {
-  "id": "8o-Frd31kI8",
-  "title": "طلبت إتلاف أجنّتها… ثم عادت تطلبها | د. البراء مجددي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-09T19:30:03+00:00",
-  "short": true
- },
- {
-  "id": "cKkGSmaHyTw",
-  "title": "هل يجوز في حالة قضاء إفطار رمضان بسبب الحيض (سنين متراكمة) من الصيام إخراج إطعام؟ -  مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-09T19:00:36+00:00",
-  "short": true
  },
  {
   "id": "C5u-BC8SyMg",
@@ -369,13 +418,6 @@
   "channel": "جيلان شانيل",
   "date": "2026-11-09T17:00:14+00:00",
   "short": false
- },
- {
-  "id": "MtIQp51OWpo",
-  "title": "صور لم تخترها ناسا… حتى ليلته الأولى في البر | بكري عبدالله",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-09T17:00:09+00:00",
-  "short": true
  },
  {
   "id": "YeDk0iXxE5I",
@@ -455,13 +497,6 @@
   "short": true
  },
  {
-  "id": "DQDftDLmpHA",
-  "title": "Understanding Divorce Through the Story of Hafsa (ra) | Real Talk",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-08T21:00:01+00:00",
-  "short": true
- },
- {
   "id": "4rIEenjy_VU",
   "title": "سورة أحبها النبي ﷺ حبًا عظيمًا.. ماذا يحدث عندما تقرؤها؟",
   "channel": "عبد الدائم الكحيل",
@@ -495,13 +530,6 @@
   "channel": "إذاعة ثمانية",
   "date": "2026-11-08T13:30:23+00:00",
   "short": true
- },
- {
-  "id": "VtRAoVTnm0k",
-  "title": "I FIXED My Nighttime Peeing in 1 Night, Learn How in 90 Seconds",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-11-08T13:00:27+00:00",
-  "short": false
  },
  {
   "id": "DiwVWzBFH5M",
@@ -553,13 +581,6 @@
   "short": true
  },
  {
-  "id": "v3sxs6epsjA",
-  "title": "How AI Affects Your Relationships",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-07T18:16:16+00:00",
-  "short": true
- },
- {
   "id": "Q9rYrjD0QZM",
   "title": "تسوق الأسبوع من الليدل والكاوفلاند بالأسعار 👌أديش دفعت فاتورة ب غلا الأسعار لحوم ألبان ،أجبان",
   "channel": "جيلان شانيل",
@@ -578,13 +599,6 @@
   "title": "لماذا الخوف من الذكاء الاصطناعي حتى لو لم يصبح واعيًا؟ | حوار مع د. وليد مجدي",
   "channel": "السبيل",
   "date": "2026-11-07T16:09:42+00:00",
-  "short": false
- },
- {
-  "id": "RAZdY9oIkBg",
-  "title": "1 CLOVE in Your Coffee (Don’t Make These 4 Mistakes)",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-11-07T13:00:24+00:00",
   "short": false
  },
  {
@@ -819,13 +833,6 @@
   "short": true
  },
  {
-  "id": "w1zS77cYb9Y",
-  "title": "إذا كان لك حاجة عند الله.. عمل واحد يحقق إجابة الدعاء بشكل مؤكد",
-  "channel": "عبد الدائم الكحيل",
-  "date": "2026-11-03T20:39:54+00:00",
-  "short": false
- },
- {
   "id": "bL96JITRFZ8",
   "title": "قلة أدب ؟",
   "channel": "Soulafa Selim",
@@ -992,13 +999,6 @@
   "channel": "سامي البطاطي",
   "date": "2026-10-29T18:00:18+00:00",
   "short": false
- },
- {
-  "id": "TgMHfgYiaE0",
-  "title": "وانتم؟ بتحفظوا ازاي؟ 😍",
-  "channel": "Soulafa Selim",
-  "date": "2026-10-29T17:47:47+00:00",
-  "short": true
  },
  {
   "id": "V0R2s3mvHYM",
