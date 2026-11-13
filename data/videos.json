@@ -1,5 +1,124 @@
 [
  {
+  "id": "aoe3zVXcm9A",
+  "title": "كيف نقرأ تراثنا بعيون غيرنا | بودكاست مناقشة",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-13T12:44:55+00:00",
+  "short": false
+ },
+ {
+  "id": "c9NV4bX4QiM",
+  "title": "ألف باء الزواج 78 | أسئلة الخِطبة 11",
+  "channel": "فقه النفس / مكاني",
+  "date": "2026-11-13T12:31:24+00:00",
+  "short": false
+ },
+ {
+  "id": "Wu2Z1M9V6hA",
+  "title": "Struggle is learning it self",
+  "channel": "غريب الشيخ",
+  "date": "2026-11-13T12:12:16+00:00",
+  "short": true
+ },
+ {
+  "id": "jvmSmOdsIEs",
+  "title": "لقاء تاريخي مع بطلة مناظرة الملحدة المنتقبة و3 مفاجآت",
+  "channel": "د. هيثم طلعت",
+  "date": "2026-11-13T12:00:29+00:00",
+  "short": false
+ },
+ {
+  "id": "WS-SWYZwE6Y",
+  "title": "كيكه صحيه بدون بيض ولا سكر خاليه جلوتن #وصفاتEmanabdullah",
+  "channel": "وصفات Eman abdullah",
+  "date": "2026-11-13T11:55:12+00:00",
+  "short": true
+ },
+ {
+  "id": "qcEuu6HV5Dg",
+  "title": "مجالس فقه النفس 186 | لتعارفوا 59 | فقه الاختلاف 11 | أحاديث نبوية",
+  "channel": "فقه النفس / مكاني",
+  "date": "2026-11-13T11:18:23+00:00",
+  "short": false
+ },
+ {
+  "id": "MD9knzrsB70",
+  "title": "المقصود بقوله صلى الله عليه وسلم  لا تقوم الساعة حتى تضطرب أليات نساء دوس حول ذي الخلصة !",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-13T09:55:31+00:00",
+  "short": true
+ },
+ {
+  "id": "sO1PSQrVHJA",
+  "title": "طلب من أخيه عشرة آلاف… فجاءه الرد: آسف، لا أستطيع | د. سعد العريفي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-13T08:00:33+00:00",
+  "short": true
+ },
+ {
+  "id": "Cj1QytiXGcQ",
+  "title": "Winter Is Coming And That's A Gift | Sh. Mohammad Elshinawy",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-13T00:00:14+00:00",
+  "short": true
+ },
+ {
+  "id": "rwX8MKTNNGc",
+  "title": "The Only 5 Supplements You Actually Need",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-11-12T23:00:35+00:00",
+  "short": true
+ },
+ {
+  "id": "qn6xufq8gH4",
+  "title": "أول صفات أصحاب المروءة والرقي - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-12T21:00:05+00:00",
+  "short": true
+ },
+ {
+  "id": "Q56GXxeezrM",
+  "title": "آذاه مديره بكل وسيلة… فصار هو المدير العام | محمد بن سعود الحمد",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-12T20:06:57+00:00",
+  "short": true
+ },
+ {
+  "id": "5VEDD79AV8c",
+  "title": "أم المؤمنين عائشة تسأل رسول الله صلى الله عليه وسلم ـ",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-12T19:51:17+00:00",
+  "short": false
+ },
+ {
+  "id": "l0kF1JWlnbQ",
+  "title": "China Is Silencing the Uyghurs | Imam Tom Facchine",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-12T19:38:09+00:00",
+  "short": true
+ },
+ {
+  "id": "cnQn2jVLR2M",
+  "title": "مراجعة كتاب إعادة الاختراع - أنثوني إليوت | ظل كتاب #170",
+  "channel": "سامي البطاطي",
+  "date": "2026-11-12T19:30:02+00:00",
+  "short": false
+ },
+ {
+  "id": "W5CaDtmAB-Q",
+  "title": "عايزة أتعلم التوكل والتسليم لله وميكونش عندي سوء ظن - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-12T19:00:12+00:00",
+  "short": false
+ },
+ {
+  "id": "P4CJsZL8Vfk",
+  "title": "الزمن عند الصيني دائرة لا خطّ مستقيم | أنس بن حسين",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-12T19:00:01+00:00",
+  "short": true
+ },
+ {
   "id": "ovkHaKlEEXg",
   "title": "قبل ألف عام… كادت روسيا أن تختار الإسلام | د. ماجد التركي",
   "channel": "إذاعة مختلف",
@@ -74,13 +193,6 @@
   "title": "FIX Your Leg Cramps in Under 60 Seconds",
   "channel": "Dr. Eric Berg DC",
   "date": "2026-11-12T13:00:00+00:00",
-  "short": false
- },
- {
-  "id": "mDgP13nKE8A",
-  "title": "روسيا كما لم تعرفها من قبل | بودكاست بكرة",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-12T12:39:23+00:00",
   "short": false
  },
  {
@@ -161,32 +273,11 @@
   "short": false
  },
  {
-  "id": "2cjN-cs0BxI",
-  "title": "مرآة تتوقّع الشدّ العضلي قبل دخول الملعب | م. سلمان بت",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-11T20:47:19+00:00",
-  "short": true
- },
- {
-  "id": "GKAynmX7DG8",
-  "title": "مستودعه فرغ… قبل أن يبدأ الموسم | م. سلمان بت",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-11T20:44:11+00:00",
-  "short": true
- },
- {
   "id": "btEXVPwHJ2A",
   "title": "The Dr. Berg Show LIVE - November 13, 2026",
   "channel": "Dr. Eric Berg DC",
   "date": "2026-11-11T20:25:28+00:00",
   "short": false
- },
- {
-  "id": "SHL4b1JLGik",
-  "title": "العامل الأول في الخصوبة… عمر المرأة | د. البراء مجددي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-11T19:00:24+00:00",
-  "short": true
  },
  {
   "id": "oEjRXmF6SuA",
@@ -239,7 +330,7 @@
  },
  {
   "id": "tj7jn45a-rg",
-  "title": "China Is Erasing the Uyghurs From Their Thousand-Year Homeland | Focal Point with Imam Tom Facchine",
+  "title": "The Whispered Salam: China’s Erasure of the Uyghurs | Focal Point with Imam Tom Facchine",
   "channel": "Yaqeen Institute",
   "date": "2026-11-11T15:00:09+00:00",
   "short": false
@@ -260,7 +351,7 @@
  },
  {
   "id": "ZrUnVgRZpkk",
-  "title": "What REALLY Happens to Your Body After a Hysterectomy",
+  "title": "Over 40? What They Don’t Tell You Before a Hysterectomy",
   "channel": "Dr. Eric Berg DC",
   "date": "2026-11-11T13:00:31+00:00",
   "short": false
@@ -287,24 +378,10 @@
   "short": true
  },
  {
-  "id": "5kI8ftVIeas",
-  "title": "ما هي العزى التي كان المشركون يعبدونها في الجاهلية من دون الله ؟",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-11T10:00:24+00:00",
-  "short": true
- },
- {
   "id": "h-bRbvM4hVc",
   "title": "لو بتستخدم ال ai كتير مع pdf استخدم الطريقة دي",
   "channel": "غريب الشيخ",
   "date": "2026-11-11T08:55:56+00:00",
-  "short": true
- },
- {
-  "id": "APKkLbyI2OU",
-  "title": "أم المؤمنين عائشة تسأل رسول الله صلى الله عليه وسلم",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-11T07:00:18+00:00",
   "short": true
  },
  {
@@ -355,13 +432,6 @@
   "channel": "Soulafa Selim",
   "date": "2026-11-10T18:26:32+00:00",
   "short": true
- },
- {
-  "id": "fmJKRMbjI3M",
-  "title": "الدرس 96 - شرح كتاب رياض الصالحين - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-10T18:00:28+00:00",
-  "short": false
  },
  {
   "id": "pVYczvS27dU",
@@ -441,13 +511,6 @@
   "short": true
  },
  {
-  "id": "l6STado0Liw",
-  "title": "85- تلاوة من سورة الأحزاب - عزت جمال - أسوياء",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-10T11:00:35+00:00",
-  "short": false
- },
- {
   "id": "LKs-IPofsuI",
   "title": "أغلق هاتفك الأن!",
   "channel": "أخضر",
@@ -497,13 +560,6 @@
   "short": false
  },
  {
-  "id": "aHMO6e5LIZU",
-  "title": "Salama ibn al-Akwa (ra): The Fastest Runner In Medina | The Firsts | Dr. Omar Suleiman",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-09T15:30:08+00:00",
-  "short": false
- },
- {
   "id": "f9FKTFZWKDA",
   "title": "فرشت قناتي الدجاج #shortvideo #اكسبلور #جيلان #بستنة",
   "channel": "جيلان شانيل",
@@ -515,13 +571,6 @@
   "title": "هل الملل مفيد؟",
   "channel": "أخضر",
   "date": "2026-11-09T13:40:03+00:00",
-  "short": true
- },
- {
-  "id": "KU-e2GIpkhI",
-  "title": "How to Fall Back Asleep FAST",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-11-09T13:00:28+00:00",
   "short": true
  },
  {
@@ -543,13 +592,6 @@
   "title": "احتياطي النفط الأميركي يكفي أسبوعين فقط.. فكيف ستضرب واشنطن إيران؟",
   "channel": "اقتصاد الكوكب",
   "date": "2026-11-09T08:00:20+00:00",
-  "short": true
- },
- {
-  "id": "yZqla3ch5UM",
-  "title": "Why Doesn't Your Motivation Last? | Sh. Mohammad Elshinawy",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-08T23:33:36+00:00",
   "short": true
  },
  {
@@ -719,13 +761,6 @@
   "channel": "عبد الدائم الكحيل",
   "date": "2026-11-06T15:19:11+00:00",
   "short": false
- },
- {
-  "id": "a3ISTOvzyaU",
-  "title": "بدليه بالعيش لمده اسبوع فقط😱‼️#دايت #تخسيس #وصفاتEmanabdullah",
-  "channel": "وصفات Eman abdullah",
-  "date": "2026-11-06T13:05:52+00:00",
-  "short": true
  },
  {
   "id": "jI6vJlcIdUg",
@@ -994,25 +1029,11 @@
   "short": true
  },
  {
-  "id": "5WSL3SnQ4uI",
-  "title": "ألف باء الزواج 76 | أسئلة الخِطبة 09",
-  "channel": "فقه النفس / مكاني",
-  "date": "2026-10-30T12:48:43+00:00",
-  "short": false
- },
- {
   "id": "zWPbjXxPwP8",
   "title": "ازاي تحمي نفسك من الانتكاسات",
   "channel": "Mohamed Shabka",
   "date": "2026-10-30T12:06:48+00:00",
   "short": true
- },
- {
-  "id": "pa9ZI9Sz6LY",
-  "title": "مجالس فقه النفس 184 | لتعارفوا 57 | فقه الاختلاف 09 | آيات قرآنية",
-  "channel": "فقه النفس / مكاني",
-  "date": "2026-10-30T11:25:52+00:00",
-  "short": false
  },
  {
   "id": "xExeu_4pF3I",
@@ -1187,13 +1208,6 @@
   "title": "مراجعة رواية الهدنة - ماريو بينيديتي | ظل كتاب #167",
   "channel": "سامي البطاطي",
   "date": "2026-10-22T18:00:16+00:00",
-  "short": false
- },
- {
-  "id": "QMINxTaV9IM",
-  "title": "إزاي تعمل موقع 3D Scroll زي موقع أبل بالذكاء الاصطناعي",
-  "channel": "غريب الشيخ",
-  "date": "2026-10-22T17:27:59+00:00",
   "short": false
  },
  {
@@ -1446,13 +1460,6 @@
   "title": "جربت الهوايات لعلاج تعفن الدماغ - ختام تحدي ١٠٠ ساعة إنجاز ⭐️",
   "channel": "دانه علان",
   "date": "2026-09-14T14:12:56+00:00",
-  "short": false
- },
- {
-  "id": "Jfl9kguMZj4",
-  "title": "المناظرة الكبرى بين د. هيثم طلعت وملحدة منتقبة : الإله ظالم والشيوخ يبررون! لماذا تتمسكون بالإسلام؟",
-  "channel": "د. هيثم طلعت",
-  "date": "2026-09-07T14:00:37+00:00",
   "short": false
  },
  {
@@ -1910,13 +1917,6 @@
   "title": "تغطية معرض الرياض الدولي للكتاب 2022 📚",
   "channel": "سامي البطاطي",
   "date": "2022-10-07T20:00:10+00:00",
-  "short": false
- },
- {
-  "id": "U8ZSyqR1res",
-  "title": "مراجعة كتاب التاريخ الثقافي للقباحة - غريتشن هندرسن | ظل كتاب #163",
-  "channel": "سامي البطاطي",
-  "date": "2022-09-29T19:00:10+00:00",
   "short": false
  },
  {
