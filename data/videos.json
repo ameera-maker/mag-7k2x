@@ -1,5 +1,89 @@
 [
  {
+  "id": "XMdrcJoxcJ0",
+  "title": "رأي مشهور في الاستديو الجديد — 👀",
+  "channel": "إذاعة ثمانية",
+  "date": "2026-11-14T12:38:29+00:00",
+  "short": false
+ },
+ {
+  "id": "z7p8xA2zidk",
+  "title": "كيف كانوا يحبون النبي ﷺ أكثر من أعينهم - قصص الصحابة - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-14T11:00:23+00:00",
+  "short": false
+ },
+ {
+  "id": "hGw7i69Vzps",
+  "title": "حارب الإمام شامل روسيا… ثم توفي في المدينة المنورة | د. ماجد التركي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-14T10:00:15+00:00",
+  "short": true
+ },
+ {
+  "id": "U_kRFm704ig",
+  "title": "أهل الاجتهاد في الشرع",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-14T07:36:18+00:00",
+  "short": false
+ },
+ {
+  "id": "2XVdpB_0yaI",
+  "title": "When A Friend Gets What You Prayed For | Anchored Ep. 9 | Sh. Mohammad Elshinawy",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-14T01:21:42+00:00",
+  "short": false
+ },
+ {
+  "id": "p4iXuM4bJVM",
+  "title": "Will We Be Destroyed? | Dr. Omar Suleiman",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-13T23:37:30+00:00",
+  "short": true
+ },
+ {
+  "id": "AiZryudAxxQ",
+  "title": "Read This and You’ll Never Eat Sugar Again",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-11-13T23:00:31+00:00",
+  "short": true
+ },
+ {
+  "id": "k01vcOHsWOA",
+  "title": "الحلف بالله كذبًا.. من صفات الشيطان! - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-13T21:00:15+00:00",
+  "short": true
+ },
+ {
+  "id": "f6-EJofPHzw",
+  "title": "هل التسبيح يغير القدر..؟ 7 عجائب للتسبيح",
+  "channel": "عبد الدائم الكحيل",
+  "date": "2026-11-13T20:43:27+00:00",
+  "short": false
+ },
+ {
+  "id": "kQ4B9I9b7rc",
+  "title": "إيه الفرق بين الغيبة والفضفضة من تصرفات حد ضايقتنى وأشتكي منه؟ - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-13T19:00:33+00:00",
+  "short": true
+ },
+ {
+  "id": "Suw7dnHKK0U",
+  "title": "حروب البحر ومضيق هرمز والاقتصاد 🥷 - ملخص كتاب: (تاريخ القرصنة) #أخضر",
+  "channel": "أخضر",
+  "date": "2026-11-13T19:00:29+00:00",
+  "short": false
+ },
+ {
+  "id": "PnbHjBjD_O4",
+  "title": "Transform Your Worst Mistake Into Your BEST Deed | LATEST Khutbah by Dr. Omar Suleiman",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-13T18:57:08+00:00",
+  "short": false
+ },
+ {
   "id": "0_i7-uewrx0",
   "title": "مربى فراولة صحي بدون سكر بس بأربع مكونات #صحة_المرأة #اكسبلور #دايت #تغذية #رياضة #healthyfood",
   "channel": "رند الديسي",
@@ -75,13 +159,6 @@
   "channel": "إذاعة ثمانية",
   "date": "2026-11-13T14:00:29+00:00",
   "short": true
- },
- {
-  "id": "PnbHjBjD_O4",
-  "title": "Transform Your Worst Mistake Into Your BEST Deed | LATEST Khutbah by Dr. Omar Suleiman",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-13T13:47:52+00:00",
-  "short": false
  },
  {
   "id": "pVYPy0Fl3Ww",
@@ -214,13 +291,6 @@
   "title": "الزمن عند الصيني دائرة لا خطّ مستقيم | أنس بن حسين",
   "channel": "إذاعة مختلف",
   "date": "2026-11-12T19:00:01+00:00",
-  "short": true
- },
- {
-  "id": "ovkHaKlEEXg",
-  "title": "قبل ألف عام… كادت روسيا أن تختار الإسلام | د. ماجد التركي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-12T18:00:25+00:00",
   "short": true
  },
  {
@@ -364,20 +434,6 @@
   "short": true
  },
  {
-  "id": "vXCOP9jL3fg",
-  "title": "الدرس 96 - باب صلاة الكسوف والخسوف - شرح كتاب الفقه الواضح - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-11T18:00:25+00:00",
-  "short": false
- },
- {
-  "id": "2SjmUm_gGas",
-  "title": "يأتي بالرجل السمين يوم القيامة وما في قلبه مثقال ذرة من إيمان",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-11T17:31:12+00:00",
-  "short": false
- },
- {
   "id": "-KUaYGN8SRc",
   "title": "باليوم البارد🥶جهزت التفاح للتفريز،دفيت البيت بريحة الفطائر ع فرن التندور مع كيكة تفاح شتويةدافئة👌🏽",
   "channel": "جيلان شانيل",
@@ -427,13 +483,6 @@
   "short": true
  },
  {
-  "id": "GtvOZleZyUU",
-  "title": "من يبادر؟ - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-11T11:00:26+00:00",
-  "short": true
- },
- {
   "id": "XErjm5Xf3nI",
   "title": "خلي الملل صديقك!",
   "channel": "أخضر",
@@ -452,20 +501,6 @@
   "title": "The Amazing Benefits of Iodine",
   "channel": "Dr. Eric Berg DC",
   "date": "2026-11-10T23:00:22+00:00",
-  "short": true
- },
- {
-  "id": "QkCKxmGp1fs",
-  "title": "Your Winter Tahajjud Routine | Dr. Tamara Gray",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-10T22:34:00+00:00",
-  "short": true
- },
- {
-  "id": "HAqyBXhT49w",
-  "title": "أنت لست معصوم أنت مستور! - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-10T21:00:26+00:00",
   "short": true
  },
  {
@@ -494,13 +529,6 @@
   "title": "هيك حولت الفشل لنجاح مشان ماخليها تعلم عليي👌🏽فطيرة البطاطا المسلوقة بالدجاج من صواني السعادة اللذيذة",
   "channel": "جيلان شانيل",
   "date": "2026-11-10T17:00:19+00:00",
-  "short": false
- },
- {
-  "id": "U0PRFP0fWBU",
-  "title": "When The Strong Devour The Weak | Signs of the Hour Ep. 25 | Dr. Omar Suleiman",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-10T17:00:10+00:00",
   "short": false
  },
  {
@@ -543,13 +571,6 @@
   "title": "بسكوت للدايت خالي جلوتين بدون بيض ولا حليب ولا دهون ‼️ وصفاتEmanabdullah",
   "channel": "وصفات Eman abdullah",
   "date": "2026-11-10T13:45:28+00:00",
-  "short": true
- },
- {
-  "id": "do1TLAEY-rI",
-  "title": "7 “Healthy” Foods That Destroy Your Metabolism",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-11-10T13:00:00+00:00",
   "short": true
  },
  {
@@ -868,25 +889,11 @@
   "short": false
  },
  {
-  "id": "FWCYVYj5hhA",
-  "title": "كيف يعرف عمر الشخص من يده؟ يقول «بدر الشيب» أنها سرّ المهنة — 😁",
-  "channel": "إذاعة ثمانية",
-  "date": "2026-11-05T13:00:39+00:00",
-  "short": true
- },
- {
   "id": "Z6KYSsSPPms",
   "title": ".",
   "channel": "فقه النفس / مكاني",
   "date": "2026-11-05T09:45:19+00:00",
   "short": true
- },
- {
-  "id": "F4jr8v-oc7o",
-  "title": "انتبه..! ٧ ذنوب عظيمة تأكل حسناتك دون أن تشعر!",
-  "channel": "عبد الدائم الكحيل",
-  "date": "2026-11-04T21:18:19+00:00",
-  "short": false
  },
  {
   "id": "K1qS3VJzW7c",
@@ -907,13 +914,6 @@
   "title": "لماذا يتحدثون الآن عن ضربة نووية على إيران؟",
   "channel": "اقتصاد الكوكب",
   "date": "2026-11-04T16:50:55+00:00",
-  "short": true
- },
- {
-  "id": "2A6EAVkvltc",
-  "title": "اتعلم مهارات بأكبر خصومات! 🔥#أخضر",
-  "channel": "أخضر",
-  "date": "2026-11-04T13:04:09+00:00",
   "short": true
  },
  {
