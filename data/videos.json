@@ -1,5 +1,96 @@
 [
  {
+  "id": "o3VvlrezSp8",
+  "title": "علّمهم الجراحة… ثم صار يقول لهم: علّموني | أ.د. عمرو بيومي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-15T17:00:29+00:00",
+  "short": true
+ },
+ {
+  "id": "4KVVx5Jgc48",
+  "title": "روتين السبت من الخامسة صباحا👌🏽حضرت صينية بالفرن من صواني السعادة،مخلل الملفوف،كل بعيش حياته ع مزاجه😉",
+  "channel": "جيلان شانيل",
+  "date": "2026-11-15T17:00:03+00:00",
+  "short": false
+ },
+ {
+  "id": "oVVPWbuu1TI",
+  "title": "الدرس الخامس و الخمسون من تعليق الشيخ الددو على كتاب معالم السنة النبوية",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-15T16:50:38+00:00",
+  "short": false
+ },
+ {
+  "id": "0DvFPB90QAI",
+  "title": "كتبه الذكاء الاصطناعي… فمن المسؤول عنه؟ | دقائق رقمية",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-15T16:49:33+00:00",
+  "short": true
+ },
+ {
+  "id": "wFSPC2qDE3M",
+  "title": "من الكدادة إلى تأسيس الشركات: رحلة في الإصرار والمجازفة | بودكاست بترولي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-15T16:12:15+00:00",
+  "short": false
+ },
+ {
+  "id": "50JUh0QxVOQ",
+  "title": "أي قلّاب يناسب شكل وجهك؟ وسرّ الياقة الصينية | أيمن الرابغي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-15T16:00:28+00:00",
+  "short": true
+ },
+ {
+  "id": "6JU6yg0L6g4",
+  "title": "يوميات بنوتة بتبني الإمبراطورية بتاعتها👑 (١)",
+  "channel": "كوتش سما",
+  "date": "2026-11-15T15:58:08+00:00",
+  "short": true
+ },
+ {
+  "id": "9fuLFb1SmBA",
+  "title": "استطلاع ستاك أوفر فلو ٢٠٢٦: المرتبات والـ AI ولغات البرمجة",
+  "channel": "غريب الشيخ",
+  "date": "2026-11-15T15:39:10+00:00",
+  "short": false
+ },
+ {
+  "id": "e-b_4vjmuh0",
+  "title": "تشكل الجليد #shortvideo #اكسبلور #garden #بستنة",
+  "channel": "جيلان شانيل",
+  "date": "2026-11-15T15:17:20+00:00",
+  "short": true
+ },
+ {
+  "id": "__LjF9HxIl8",
+  "title": "The Mongols | Official Trailer | A Yaqeen Original Series",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-15T15:00:18+00:00",
+  "short": false
+ },
+ {
+  "id": "Wfg2Y3zQEBU",
+  "title": "The Mongols | Official Trailer | A Yaqeen Original Series",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-15T15:00:15+00:00",
+  "short": true
+ },
+ {
+  "id": "D6DrfpNh_jY",
+  "title": "«يا مسوّي الفنجال حيثك تسوقه»— سليمان بن رفادة.",
+  "channel": "إذاعة ثمانية",
+  "date": "2026-11-15T13:09:02+00:00",
+  "short": true
+ },
+ {
+  "id": "zd4ZCemosNY",
+  "title": "Ozempic Hair Loss?! Why It Happens & 3 Ways to Save Your Hair",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-11-15T13:00:35+00:00",
+  "short": false
+ },
+ {
   "id": "m5VMUHNFD4I",
   "title": "سخروا من ثوبه أمامه… وردّ المصمم أنقذه | أيمن الرابغي",
   "channel": "إذاعة مختلف",
@@ -147,13 +238,6 @@
   "short": true
  },
  {
-  "id": "hV0JgAnD1IY",
-  "title": "مصمم أزياء رجالية: كيف تُصنع الأناقة بهوية سعودية | بودكاست شغلة",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-14T16:55:58+00:00",
-  "short": false
- },
- {
   "id": "2XVdpB_0yaI",
   "title": "When A Friend Gets What You Prayed For | Anchored Ep. 9 | Sh. Mohammad Elshinawy",
   "channel": "Yaqeen Institute",
@@ -166,13 +250,6 @@
   "channel": "محمد الحسن الددو",
   "date": "2026-11-14T14:48:54+00:00",
   "short": false
- },
- {
-  "id": "Xcw1IZDSasE",
-  "title": "طلّقها لأنها لم تحمل… فعاد معتذرًا، ثم حملت | محمد بن سعود الحمد",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-14T13:51:34+00:00",
-  "short": true
  },
  {
   "id": "UAkKcwIZrIY",
@@ -201,13 +278,6 @@
   "channel": "Mustafa Hosny",
   "date": "2026-11-14T11:00:23+00:00",
   "short": false
- },
- {
-  "id": "hGw7i69Vzps",
-  "title": "حارب الإمام شامل روسيا… ثم توفي في المدينة المنورة | د. ماجد التركي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-14T10:00:15+00:00",
-  "short": true
  },
  {
   "id": "U_kRFm704ig",
@@ -278,13 +348,6 @@
   "channel": "Dr. Eric Berg DC",
   "date": "2026-11-13T17:04:43+00:00",
   "short": false
- },
- {
-  "id": "YPoMcav5aR4",
-  "title": "خطوات في ظلام البر… تتوقف كلما أضاء الكشّاف | بكري عبدالله",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-13T17:00:39+00:00",
-  "short": true
  },
  {
   "id": "0Zx8sqrQkAs",
@@ -378,13 +441,6 @@
   "short": true
  },
  {
-  "id": "Cj1QytiXGcQ",
-  "title": "Winter Is Coming And That's A Gift | Sh. Mohammad Elshinawy",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-13T00:00:14+00:00",
-  "short": true
- },
- {
   "id": "rwX8MKTNNGc",
   "title": "The Only 5 Supplements You Actually Need",
   "channel": "Dr. Eric Berg DC",
@@ -399,24 +455,10 @@
   "short": false
  },
  {
-  "id": "l0kF1JWlnbQ",
-  "title": "China Is Silencing the Uyghurs | Imam Tom Facchine",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-12T19:38:09+00:00",
-  "short": true
- },
- {
   "id": "cnQn2jVLR2M",
   "title": "مراجعة كتاب إعادة الاختراع - أنثوني إليوت | ظل كتاب #170",
   "channel": "سامي البطاطي",
   "date": "2026-11-12T19:30:02+00:00",
-  "short": false
- },
- {
-  "id": "29QKsPMASCo",
-  "title": "بحث التابعين في جهتي  الورود والدلالة",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-12T17:27:46+00:00",
   "short": false
  },
  {
@@ -481,13 +523,6 @@
   "channel": "السبيل",
   "date": "2026-11-12T05:34:54+00:00",
   "short": false
- },
- {
-  "id": "ss9LYmwk5yo",
-  "title": "Healthy Spices You Should Use More Often",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-11-11T23:00:31+00:00",
-  "short": true
  },
  {
   "id": "pQ9ShRiQGDc",
@@ -609,13 +644,6 @@
   "short": true
  },
  {
-  "id": "YfSPWN7aack",
-  "title": "تركيب الصوبيا #shortvideo #اكسبلور #ثلج #لايك #garden #بستنة",
-  "channel": "جيلان شانيل",
-  "date": "2026-11-10T14:03:13+00:00",
-  "short": true
- },
- {
   "id": "neNq_oX_rps",
   "title": "بسكوت للدايت خالي جلوتين بدون بيض ولا حليب ولا دهون ‼️ وصفاتEmanabdullah",
   "channel": "وصفات Eman abdullah",
@@ -655,13 +683,6 @@
   "title": "عبادة الله وعبادة الشيطان: الذكر واليوغا والرقص الشرقي في مكان واحد!",
   "channel": "السبيل",
   "date": "2026-11-09T20:23:55+00:00",
-  "short": false
- },
- {
-  "id": "jcP3DmQn698",
-  "title": "زيارة ولاد اختي والكنة بيوم العطلة 😍 غدانا وفطورنا وأجواءنا الحلوة،جمعة العيلة ع سفرة بيوم بارد جدا🥶",
-  "channel": "جيلان شانيل",
-  "date": "2026-11-09T17:00:14+00:00",
   "short": false
  },
  {
@@ -889,13 +910,6 @@
   "short": true
  },
  {
-  "id": "FK35Q7LNUls",
-  "title": "هل تعود حرب إيران بعد الانتخابات الأمريكية | بودكاست الفجر",
-  "channel": "إذاعة ثمانية",
-  "date": "2026-11-06T05:00:51+00:00",
-  "short": false
- },
- {
   "id": "quu_JXBplD4",
   "title": "5. November 2026",
   "channel": "Soulafa Selim",
@@ -935,13 +949,6 @@
   "title": "لماذا يتحدثون الآن عن ضربة نووية على إيران؟",
   "channel": "اقتصاد الكوكب",
   "date": "2026-11-04T16:50:55+00:00",
-  "short": true
- },
- {
-  "id": "Ond1VSc9v2A",
-  "title": "ديب سيك نشرت تصميم super agent متاح للتجربة",
-  "channel": "غريب الشيخ",
-  "date": "2026-11-04T11:46:33+00:00",
   "short": true
  },
  {
@@ -1398,13 +1405,6 @@
   "channel": "Duha Home",
   "date": "2026-09-28T14:05:54+00:00",
   "short": false
- },
- {
-  "id": "6oA8lCCV7Dk",
-  "title": "انت فعلا معندكش وقت؟ولا بتتخيل؟",
-  "channel": "كوتش سما",
-  "date": "2026-09-26T15:20:39+00:00",
-  "short": true
  },
  {
   "id": "CSIry2i0nTI",
