@@ -1,5 +1,61 @@
 [
  {
+  "id": "P3LVhUKq9GE",
+  "title": "Is There Any Good In Sinning? | Dr. Omar Suleiman",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-17T00:42:52+00:00",
+  "short": true
+ },
+ {
+  "id": "2oopQxd-ATQ",
+  "title": "What Happens If You Only Eat Sardines for 5 Days?",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-11-16T23:00:32+00:00",
+  "short": true
+ },
+ {
+  "id": "t14ih__1rBs",
+  "title": "كيف تخاف وربك الله؟ - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-16T21:00:03+00:00",
+  "short": true
+ },
+ {
+  "id": "O39iICYuJrw",
+  "title": "دخول أولاد الأولاد في الوقف على الأولاد",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-16T19:55:21+00:00",
+  "short": false
+ },
+ {
+  "id": "LkWveKL6Pgw",
+  "title": "سبعة أمور ستراها لحظة خروج الروح...",
+  "channel": "عبد الدائم الكحيل",
+  "date": "2026-11-16T19:52:50+00:00",
+  "short": false
+ },
+ {
+  "id": "wozo7bJDoAc",
+  "title": "يقولون المليار يُورَث… فقرّر أن يصنعه | عبدالرحمن الزهراني",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-16T19:30:28+00:00",
+  "short": true
+ },
+ {
+  "id": "GQjDgntHogE",
+  "title": "مدينٌ بـ600 ألف ريال… فجاءه اتصال: أبشر بها الآن | محمد بن سعود الحمد",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-16T19:00:20+00:00",
+  "short": true
+ },
+ {
+  "id": "ONiQSLHAgA0",
+  "title": "انت لوحدك لا شيء.. وبربنا كل شيء! - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-16T19:00:13+00:00",
+  "short": true
+ },
+ {
   "id": "9qwlDHgBNgk",
   "title": "Every prayer time is perfectly placed, never by coincidence. ✨ #صحة_المرأة #اكسبلور #دايت #تغذية #",
   "channel": "رند الديسي",
@@ -140,20 +196,6 @@
   "short": true
  },
  {
-  "id": "Jdqfx7YYi9Y",
-  "title": "أعادت له أمه 75 ريالًا… فلم ينم تلك الليلة | عبدالرحمن الزهراني",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-16T02:00:37+00:00",
-  "short": true
- },
- {
-  "id": "T9ZbMvhDA58",
-  "title": "فتّشوا جواله في مطار نيويورك… وحقّقوا معه سبع ساعات | عبدالرحمن الزهراني",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-16T01:58:34+00:00",
-  "short": true
- },
- {
   "id": "Y0MqbfDcmEY",
   "title": "Daily Habits That Boost Brain Function",
   "channel": "Dr. Eric Berg DC",
@@ -273,20 +315,6 @@
   "short": false
  },
  {
-  "id": "Ogr8ezEIrWI",
-  "title": "مة مين اللي هيأتي شفيع ليك بين يدي الله سبحانه وتعالى - ستر وغطا - مصطفى حسني - بداية - عمار الأرض",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-15T11:23:00+00:00",
-  "short": false
- },
- {
-  "id": "RG3Qd1I6dpk",
-  "title": "الطموح الذي لا يضرك - قصص الصحابة - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-15T11:00:31+00:00",
-  "short": false
- },
- {
   "id": "1V-N84Ff3Ak",
   "title": "الترقي في طلب العلم",
   "channel": "محمد الحسن الددو",
@@ -371,13 +399,6 @@
   "short": true
  },
  {
-  "id": "2XVdpB_0yaI",
-  "title": "“Why Is It Hard For Me To Love Others?” | Anchored Ep. 9 | Sh. Mohammad Elshinawy",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-14T15:00:08+00:00",
-  "short": false
- },
- {
   "id": "Ca5RUiwV0ZE",
   "title": "في مجلس عزاء الشيخ طايس عبد الله الجميلي ـ رحمه الله تعالى",
   "channel": "محمد الحسن الددو",
@@ -455,13 +476,6 @@
   "short": false
  },
  {
-  "id": "I5EgTFly2r4",
-  "title": "تعرف على سبب ومعنى تفضيل بني إسرائيل",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-13T16:52:11+00:00",
-  "short": false
- },
- {
   "id": "TsSY8THZxxY",
   "title": "تغسلوا البيض قبل ما تستخدموه ؟ هذه هي الطريقة الصحيحة لغسل البيض #صحة_المرأة #اكسبلور #دايت #تغذية",
   "channel": "رند الديسي",
@@ -487,13 +501,6 @@
   "title": "أمطار وأجواء زينة، والشتاء باقي ما بدأ! 😌🌧️",
   "channel": "إذاعة ثمانية",
   "date": "2026-11-13T14:00:29+00:00",
-  "short": true
- },
- {
-  "id": "pVYPy0Fl3Ww",
-  "title": "10 Vitamins You Should Never Take",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-11-13T13:00:31+00:00",
   "short": true
  },
  {
@@ -900,13 +907,6 @@
   "title": "5 أشياء أهم من نظامك الغذائي أكشفها اليوم",
   "channel": "دكتور بيرج بالعربي",
   "date": "2026-11-06T17:57:01+00:00",
-  "short": false
- },
- {
-  "id": "EFbWw8S3XVY",
-  "title": "عمل واحد قم به يوم الجمعة وسوف ترى عجباً..!",
-  "channel": "عبد الدائم الكحيل",
-  "date": "2026-11-06T15:19:11+00:00",
   "short": false
  },
  {
