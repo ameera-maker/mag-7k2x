@@ -1,9 +1,44 @@
 [
  {
-  "id": "MpItUyyzP7A",
-  "title": "اقتصاد المياه الغازية: من المصنع إلى رف البقالة | بودكاست المستشار",
+  "id": "Px74Q6_WqIg",
+  "title": "11 Ways to Protect Your Liver from Toxins",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-11-21T23:00:11+00:00",
+  "short": true
+ },
+ {
+  "id": "QDadvZ83_Vk",
+  "title": "لا تتكلم في القرآن بما لا تعلم! - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-21T21:00:00+00:00",
+  "short": true
+ },
+ {
+  "id": "nzjrFQucGq4",
+  "title": "سيرة إمام المحدثين: من عبقرية الحفظ إلى صحيح البخاري | بودكاست بترولي",
   "channel": "إذاعة مختلف",
-  "date": "2026-11-21T18:37:57+00:00",
+  "date": "2026-11-21T20:40:22+00:00",
+  "short": false
+ },
+ {
+  "id": "ywrsVWDebA8",
+  "title": "كم مرة دعوت الله ولم يستجب لك..؟ تجربتي مع دعاء الخير",
+  "channel": "عبد الدائم الكحيل",
+  "date": "2026-11-21T20:28:34+00:00",
+  "short": false
+ },
+ {
+  "id": "bteJ3GXY_Io",
+  "title": "نفسي تغلبني على اليأس من رحمة الله - لايف السبت  - مصطفى حسني",
+  "channel": "Mustafa Hosny",
+  "date": "2026-11-21T19:49:29+00:00",
+  "short": false
+ },
+ {
+  "id": "dj41ltUiDnk",
+  "title": "خلاف العلماء في أخذ الإمام والمؤذن للأجرة",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-21T19:45:12+00:00",
   "short": false
  },
  {
@@ -273,24 +308,10 @@
   "short": false
  },
  {
-  "id": "Z_fyzDfY2i8",
-  "title": "هل العمل في البنوك حرام؟ - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-19T19:00:08+00:00",
-  "short": true
- },
- {
   "id": "N9e9DQ5qLf0",
   "title": "كيف أنحف أثناء الرضاعة الطبيعية بدون ما يتأثر الحليب؟ | رند الديسي",
   "channel": "رند الديسي",
   "date": "2026-11-19T18:00:28+00:00",
-  "short": false
- },
- {
-  "id": "ZZwa5Lofpzg",
-  "title": "الدرس 2 - شرح كتاب عنوان البيان وبستان الأذهان - مصطفى حسني",
-  "channel": "Mustafa Hosny",
-  "date": "2026-11-19T18:00:11+00:00",
   "short": false
  },
  {
@@ -385,6 +406,13 @@
   "short": false
  },
  {
+  "id": "2-SkLlXhR4A",
+  "title": "The Rise of Genghis Khan | The Mongols, Ep. 1 | Dr. Hassan Elwan",
+  "channel": "Yaqeen Institute",
+  "date": "2026-11-19T03:06:23+00:00",
+  "short": false
+ },
+ {
   "id": "upYLI8-GqpQ",
   "title": "2 Tbsp Every Morning Can Help Flatten Your Belly",
   "channel": "Dr. Eric Berg DC",
@@ -434,24 +462,10 @@
   "short": true
  },
  {
-  "id": "D0TP9FCXLVY",
-  "title": "آل عمران",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-18T16:11:43+00:00",
-  "short": false
- },
- {
   "id": "LQEbq9B0upY",
   "title": "Why ‘Changing It From Within’ Might Change You Instead | Snapshots with Imam Tom Facchine",
   "channel": "Yaqeen Institute",
   "date": "2026-11-18T15:41:23+00:00",
-  "short": false
- },
- {
-  "id": "C7NhjQBMh-I",
-  "title": "Take 1 Tsp per Day If You Constantly Clear Your Throat",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-11-18T13:00:02+00:00",
   "short": false
  },
  {
@@ -502,13 +516,6 @@
   "channel": "رند الديسي",
   "date": "2026-11-17T16:33:02+00:00",
   "short": true
- },
- {
-  "id": "-OTWx3px85I",
-  "title": "When “Religious” People Become The Oppressors | Signs of the Hour Ep. 26 | Dr. Omar Suleiman",
-  "channel": "Yaqeen Institute",
-  "date": "2026-11-17T16:00:09+00:00",
-  "short": false
  },
  {
   "id": "TnyLJGCxMmg",
@@ -788,13 +795,6 @@
   "title": "هل يعترف الطب النفسي الإسلامي بضرورة الرقية؟ | مراجعة لطرح د. كريم حلمي",
   "channel": "السبيل",
   "date": "2026-11-12T05:34:54+00:00",
-  "short": false
- },
- {
-  "id": "pQ9ShRiQGDc",
-  "title": "ماذا يحدث إذا قلت هذا الذكر قبل أن تأوي إلى فراشك..؟",
-  "channel": "عبد الدائم الكحيل",
-  "date": "2026-11-11T21:15:27+00:00",
   "short": false
  },
  {
