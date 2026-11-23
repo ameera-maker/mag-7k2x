@@ -1,5 +1,54 @@
 [
  {
+  "id": "ybIiWMbV7a4",
+  "title": "مصارحة مريض السرطان.. ضرورة أم قسوة؟ | د. رزان أمجد #شغلة",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-23T07:00:00+00:00",
+  "short": true
+ },
+ {
+  "id": "F4pwDncZfP0",
+  "title": "التشريف النسبي  ",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-23T06:49:17+00:00",
+  "short": false
+ },
+ {
+  "id": "ybpB2Z5pQz8",
+  "title": "23 Weird Vitamin D Deficiency Symptoms",
+  "channel": "Dr. Eric Berg DC",
+  "date": "2026-11-22T23:00:29+00:00",
+  "short": true
+ },
+ {
+  "id": "ix8xVmotV2o",
+  "title": "سر لحم الإبل في طعام النبي الكريم... اكتشاف علمي ٢٠٢٦",
+  "channel": "عبد الدائم الكحيل",
+  "date": "2026-11-22T21:19:52+00:00",
+  "short": false
+ },
+ {
+  "id": "xhgqerEtMrE",
+  "title": "هوليوود والروحانية | شارون ستون: نجوت من الموت والتقيت بخمسة كائنات ضوئية",
+  "channel": "السبيل",
+  "date": "2026-11-22T21:02:12+00:00",
+  "short": false
+ },
+ {
+  "id": "zRj19eSfEnY",
+  "title": "تشرب بقدونس؟ أول اختبار في قراية الفاتحة | علاء الشيخ | بترولي",
+  "channel": "إذاعة مختلف",
+  "date": "2026-11-22T20:49:46+00:00",
+  "short": true
+ },
+ {
+  "id": "YXFePg2puG4",
+  "title": "التغليب",
+  "channel": "محمد الحسن الددو",
+  "date": "2026-11-22T20:14:02+00:00",
+  "short": false
+ },
+ {
   "id": "eLcgsT_Vv74",
   "title": "When \"Religious\" People Become Oppressors | Dr. Omar Suleiman",
   "channel": "Yaqeen Institute",
@@ -29,7 +78,7 @@
  },
  {
   "id": "1pT3nWaSH7w",
-  "title": "العلاج الإشعاعي: كيف نحارب السرطان بالأشعة؟ | بودكاست شغلة",
+  "title": "طبيبة علاج إشعاعي: رحلة علاجية لإنقاذ الحياة | بودكاست شغلة",
   "channel": "إذاعة مختلف",
   "date": "2026-11-22T18:39:09+00:00",
   "short": false
@@ -78,14 +127,14 @@
  },
  {
   "id": "tKwL2MM81J8",
-  "title": "بين صناعة الإعلانات والستاند اب: كيف تتحول مواقف الحياة إلى نكتة | بودكاست بترولي",
+  "title": "علاء الشيخ بين صناعة الإعلانات والستاند اب | بودكاست بترولي",
   "channel": "إذاعة مختلف",
   "date": "2026-11-22T13:30:12+00:00",
   "short": false
  },
  {
   "id": "nHMr4Eh44Yc",
-  "title": "How to Get Red Burning Cheeks (& Stop It For Good)",
+  "title": "Why You Get Red Burning Cheeks (& How to Stop It For Good)",
   "channel": "Dr. Eric Berg DC",
   "date": "2026-11-22T13:00:34+00:00",
   "short": false
@@ -140,13 +189,6 @@
   "short": true
  },
  {
-  "id": "nzjrFQucGq4",
-  "title": "سيرة إمام المحدثين: من عبقرية الحفظ إلى صحيح البخاري | بودكاست بترولي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-21T20:40:22+00:00",
-  "short": false
- },
- {
   "id": "ywrsVWDebA8",
   "title": "كم مرة دعوت الله ولم يستجب لك..؟ تجربتي مع دعاء الخير",
   "channel": "عبد الدائم الكحيل",
@@ -197,7 +239,7 @@
  },
  {
   "id": "e53FfuknrIQ",
-  "title": "How Islam Prevents Violence | Anchored Ep. 10 | Sh. Mohammad Elshinawy",
+  "title": "Why Islam Treats These 3 Crimes So Seriously | Anchored Ep. 10 | Sh. Mohammad Elshinawy",
   "channel": "Yaqeen Institute",
   "date": "2026-11-21T15:00:08+00:00",
   "short": false
@@ -266,13 +308,6 @@
   "short": true
  },
  {
-  "id": "h_JRfYd61ls",
-  "title": "من هم الوهابيون؟ مصطلحٌ لُبِّس لغير أصحابه | د. ماجد التركي",
-  "channel": "إذاعة مختلف",
-  "date": "2026-11-20T20:00:37+00:00",
-  "short": true
- },
- {
   "id": "sl4FZSiD_mw",
   "title": "دعاء يعجب الله ممن دعا به ولو لمرة واحدة!",
   "channel": "عبد الدائم الكحيل",
@@ -281,7 +316,7 @@
  },
  {
   "id": "bdtXQ71B1nQ",
-  "title": "Politicians Aren’t Prophets: A Muslim’s Guide To Role Models | Khutbah by Sh. Mohammad Elshinawy",
+  "title": "After the Elections: 3 Important Lessons for Muslims | Khutbah by Sh. Mohammad Elshinawy",
   "channel": "Yaqeen Institute",
   "date": "2026-11-20T19:00:10+00:00",
   "short": false
@@ -385,13 +420,6 @@
   "short": false
  },
  {
-  "id": "Xho1P7GH2LE",
-  "title": "{ ولا تشتروا بآياتي ثمنا قليلا } ",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-19T19:31:53+00:00",
-  "short": false
- },
- {
   "id": "dPUVst223vU",
   "title": "Ask Yourself This Question | Imam Tom Facchine",
   "channel": "Yaqeen Institute",
@@ -427,25 +455,11 @@
   "short": false
  },
  {
-  "id": "wZXHANxoc2c",
-  "title": "عطف الخاص على العام",
-  "channel": "محمد الحسن الددو",
-  "date": "2026-11-19T14:17:19+00:00",
-  "short": false
- },
- {
   "id": "Rxfj606GJiI",
   "title": "هو ده الترند الحقيقي حلا صحي جاهز في 10دقائق وصفاتEmanabdullah",
   "channel": "وصفات Eman abdullah",
   "date": "2026-11-19T13:18:52+00:00",
   "short": true
- },
- {
-  "id": "zi8w8Lv3bVA",
-  "title": "How Often Should You Fast to Burn Organ Fat?",
-  "channel": "Dr. Eric Berg DC",
-  "date": "2026-11-19T13:00:04+00:00",
-  "short": false
  },
  {
   "id": "_zJNOTy8N3g",
@@ -693,13 +707,6 @@
   "short": false
  },
  {
-  "id": "f6-EJofPHzw",
-  "title": "هل التسبيح يغير القدر..؟ 7 عجائب للتسبيح",
-  "channel": "عبد الدائم الكحيل",
-  "date": "2026-11-13T20:43:27+00:00",
-  "short": false
- },
- {
   "id": "Suw7dnHKK0U",
   "title": "حروب البحر ومضيق هرمز والاقتصاد 🥷 - ملخص كتاب: (تاريخ القرصنة) #أخضر",
   "channel": "أخضر",
@@ -928,13 +935,6 @@
   "title": "8. November 2026",
   "channel": "Soulafa Selim",
   "date": "2026-11-08T19:13:48+00:00",
-  "short": true
- },
- {
-  "id": "begMke9odc0",
-  "title": "هل أنكر الإمام مالك المس والتلبس؟",
-  "channel": "السبيل",
-  "date": "2026-11-08T17:56:11+00:00",
   "short": true
  },
  {
